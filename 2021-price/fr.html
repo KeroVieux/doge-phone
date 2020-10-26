@@ -9,29 +9,32 @@
 <body>
 <div id="main" style="width: 1200px;height:500px;"></div>
 <div class="p-t-30">
-  <h2>MO预测分析</h2>
+  <h2>FR预测分析</h2>
   <ul>
-    <li>没有盈利的可能</li>
+    <li>一星产品，售价350</li>
+    <li>对手评级 Not much</li>
   </ul>
 </div>
-<script src="assets/echarts.min.js"></script>
+<script src="../assets/echarts.min.js"></script>
 <script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
 <script type="text/javascript">
-  const x = _.map(Array(80), (item, index) => {
+  const capability = 981750 / 100
+
+  const x = _.map(Array(100), (item, index) => {
     const indexPlus = index + 1
-    return 50 + indexPlus * 50
+    return indexPlus * 1
   })
-  const fixedCosts = _.map(Array(80), () => {
-    return 120272.50 + 37500.68 + 1705000
+  const fixedCosts = _.map(Array(100), () => {
+    return 33208508.54 + 25525500
   })
   const variableCosts = _.map(x, (i) => {
-    return i * (32.5 + 5 + 25.97 + 300)
+    return i * capability * (63.5 + 100)
   })
   const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
     return variableCosts[fIndex] + fItem
   })
   const totalRevenue = _.map(x, (i) => {
-    return i * 600
+    return i * capability * 350
   })
   const netProfit = _.map(totalRevenue, (i, index) => {
     return i - totalCosts[index]
@@ -40,7 +43,7 @@
 
   const option = {
     title: {
-      text: 'MO - price 600'
+      text: 'FR - price 300'
     },
     tooltip: {},
     legend: {

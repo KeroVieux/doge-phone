@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analysis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://hidoge.cn:8080/ownLib/css/common.css">
+</head>
+<body>
+<div id="main" style="width: 1200px;height:500px;"></div>
+<div class="p-t-30">
+  <h2>BE预测分析</h2>
+  <ul>
+    <li>一星产品，售价350</li>
+    <li>对手评级 Barely</li>
+  </ul>
+</div>
+<script src="../assets/echarts.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
+<script type="text/javascript">
+  const capability = 721875 / 100
+
+  const x = _.map(Array(100), (item, index) => {
+    const indexPlus = index + 1
+    return indexPlus * 1
+  })
+  const fixedCosts = _.map(Array(100), () => {
+    return 20061991.57 + 18768750
+  })
+  const variableCosts = _.map(x, (i) => {
+    return i * capability * (63.5 + 100)
+  })
+  const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
+    return variableCosts[fIndex] + fItem
+  })
+  const totalRevenue = _.map(x, (i) => {
+    return i * capability * 350
+  })
+  const netProfit = _.map(totalRevenue, (i, index) => {
+    return i - totalCosts[index]
+  })
+  const Chart = echarts.init(document.getElementById('main'));
+
+  const option = {
+    title: {
+      text: 'BE - price 300'
+    },
+    tooltip: {},
+    legend: {
+      data: ['fixed costs', 'variable costs', 'total costs', 'total revenue', 'net profit']
+    },
+    xAxis: {
+      data: x
+    },
+    yAxis: {},
+    series: [{
+      name: 'fixed costs',
+      type: 'line',
+      data: fixedCosts
+    }, {
+      name: 'variable costs',
+      type: 'line',
+      data: variableCosts
+    }, {
+      name: 'total costs',
+      type: 'line',
+      data: totalCosts
+    }, {
+      name: 'total revenue',
+      type: 'line',
+      data: totalRevenue
+    }, {
+      name: 'net profit',
+      type: 'line',
+      data: netProfit
+    },]
+  };
+
+  Chart.setOption(option)
+</script>
+</body>
+</html>

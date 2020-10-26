@@ -9,9 +9,9 @@
 <body>
 <div id="main" style="width: 1200px;height:500px;"></div>
 <div class="p-t-30">
-  <h2>UK预测分析</h2>
+  <h2>UK-2020 回归分析</h2>
   <ul>
-    <li>没有盈利的可能</li>
+    <li>出货84万台，实际上净亏1.5亿</li>
   </ul>
 </div>
 <script src="assets/echarts.min.js"></script>
@@ -19,19 +19,21 @@
 <script type="text/javascript">
   const x = _.map(Array(80), (item, index) => {
     const indexPlus = index + 1
-    return 50000 + indexPlus * 10000
+    return 400000 + indexPlus * 10000
   })
   const fixedCosts = _.map(Array(80), () => {
-    return 72151004.02 + 22496512.5 + 18865000
+    // 分摊固定支出、分部支出、营销投入
+    return 54584360 + 19865000 + 30030000
   })
   const variableCosts = _.map(x, (i) => {
-    return i * (32.5 + 5 + 25.97 + 300)
+    // 运输、分销、营销、采购
+    return i * (32.5 + 5 + 26 + 220)
   })
   const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
     return variableCosts[fIndex] + fItem
   })
   const totalRevenue = _.map(x, (i) => {
-    return i * 500
+    return i * 200
   })
   const netProfit = _.map(totalRevenue, (i, index) => {
     return i - totalCosts[index]
@@ -40,7 +42,7 @@
 
   const option = {
     title: {
-      text: 'UK - price 600'
+      text: 'UK - 2020 - price 200'
     },
     tooltip: {},
     legend: {

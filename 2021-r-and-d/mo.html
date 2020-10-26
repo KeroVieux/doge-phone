@@ -9,21 +9,20 @@
 <body>
 <div id="main" style="width: 1200px;height:500px;"></div>
 <div class="p-t-30">
-  <h2>JP预测分析</h2>
+  <h2>MO预测分析</h2>
   <ul>
-    <li>鉴于竞争对手评级为Very heavy，投入市场费用760万，市场份额保守估计能拿下10%，出货29400台。净亏6100万。</li>
-    <li>由分析图表得出，吃完全部市场都不够回本</li>
+    <li>没有盈利的可能</li>
   </ul>
 </div>
-<script src="assets/echarts.min.js"></script>
+<script src="../assets/echarts.min.js"></script>
 <script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
 <script type="text/javascript">
   const x = _.map(Array(80), (item, index) => {
     const indexPlus = index + 1
-    return 10000 + indexPlus * 3000
+    return 50 + indexPlus * 50
   })
   const fixedCosts = _.map(Array(80), () => {
-    return 36445581.76 + 7635180 + 23900000
+    return 120272.50 + 37500.68 + 1705000
   })
   const variableCosts = _.map(x, (i) => {
     return i * (32.5 + 5 + 25.97 + 300)
@@ -41,7 +40,7 @@
 
   const option = {
     title: {
-      text: 'JP - price 600'
+      text: 'MO - price 600'
     },
     tooltip: {},
     legend: {
