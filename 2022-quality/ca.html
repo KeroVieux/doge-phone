@@ -8,32 +8,28 @@
 </head>
 <body>
 <div id="main" style="width: 1200px;height:500px;"></div>
-<div class="p-t-30">
-  <h2>MO预测分析</h2>
-  <ul>
-    <li>没有盈利的可能</li>
-  </ul>
-</div>
 <script src="../assets/echarts.min.js"></script>
 <script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
 <script type="text/javascript">
-  const capability = 15400 / 100
+  const capability = 616000 / 100
+  const fixed = 74881853.27
+  const price = 650
 
   const x = _.map(Array(100), (item, index) => {
     const indexPlus = index + 1
     return indexPlus * 1
   })
   const fixedCosts = _.map(Array(100), () => {
-    return 2326008.97
+    return fixed
   })
   const variableCosts = _.map(x, (i) => {
-    return i * capability * (363.5 - 26)
+    return i * capability * 387.5
   })
   const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
     return variableCosts[fIndex] + fItem
   })
   const totalRevenue = _.map(x, (i) => {
-    return i * capability * 750
+    return i * capability * price
   })
   const netProfit = _.map(totalRevenue, (i, index) => {
     return i - totalCosts[index]
@@ -42,7 +38,7 @@
 
   const option = {
     title: {
-      text: 'MO - price 600'
+      text: 'CA'
     },
     tooltip: {},
     legend: {

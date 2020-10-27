@@ -17,21 +17,23 @@
 <script src="../assets/echarts.min.js"></script>
 <script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
 <script type="text/javascript">
-  const x = _.map(Array(80), (item, index) => {
+  const capability = 1416800 / 100
+
+  const x = _.map(Array(100), (item, index) => {
     const indexPlus = index + 1
-    return 50000 + indexPlus * 10000
+    return indexPlus * 1
   })
-  const fixedCosts = _.map(Array(80), () => {
-    return 72151004.02 + 22496512.5 + 18865000
+  const fixedCosts = _.map(Array(100), () => {
+    return 78272825.66 + 36836800
   })
   const variableCosts = _.map(x, (i) => {
-    return i * (32.5 + 5 + 25.97 + 300)
+    return i * capability * 337.5
   })
   const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
     return variableCosts[fIndex] + fItem
   })
   const totalRevenue = _.map(x, (i) => {
-    return i * 600
+    return i * capability * 650
   })
   const netProfit = _.map(totalRevenue, (i, index) => {
     return i - totalCosts[index]

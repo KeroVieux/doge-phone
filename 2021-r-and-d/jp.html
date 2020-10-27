@@ -8,31 +8,26 @@
 </head>
 <body>
 <div id="main" style="width: 1200px;height:500px;"></div>
-<div class="p-t-30">
-  <h2>JP预测分析</h2>
-  <ul>
-    <li>鉴于竞争对手评级为Very heavy，投入市场费用760万，市场份额保守估计能拿下10%，出货29400台。净亏6100万。</li>
-    <li>由分析图表得出，吃完全部市场都不够回本</li>
-  </ul>
-</div>
 <script src="../assets/echarts.min.js"></script>
 <script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
 <script type="text/javascript">
-  const x = _.map(Array(80), (item, index) => {
+  const capability = 875000 / 100
+
+  const x = _.map(Array(100), (item, index) => {
     const indexPlus = index + 1
-    return 10000 + indexPlus * 3000
+    return indexPlus * 1
   })
-  const fixedCosts = _.map(Array(80), () => {
-    return 36445581.76 + 7635180 + 23900000
+  const fixedCosts = _.map(Array(100), () => {
+    return 51975542.94
   })
   const variableCosts = _.map(x, (i) => {
-    return i * (32.5 + 5 + 25.97 + 300)
+    return i * capability * (363.5 - 26)
   })
   const totalCosts = _.map(fixedCosts, (fItem, fIndex) => {
     return variableCosts[fIndex] + fItem
   })
   const totalRevenue = _.map(x, (i) => {
-    return i * 600
+    return i * capability * 750
   })
   const netProfit = _.map(totalRevenue, (i, index) => {
     return i - totalCosts[index]
