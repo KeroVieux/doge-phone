@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analysis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://hidoge.cn:8080/ownLib/css/common.css">
+</head>
+<body>
+<div id="main" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<div id="main1" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<script src="assets/echarts.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/jquery.min.js"></script>
+<script type="text/javascript">
+  $(async () => {
+    const Chart = echarts.init(document.getElementById('main'))
+    const d1 = [7500, 15000, 30000, 60000, 90000, 135000, 202500 ]
+    const d2 = _.map(d1, (i) => {
+      return i * 5
+    })
+    const d3 = [100, 1000, 2000, 4000, 8000, 16000, 32000 ]
+    const d4 = _.map(d3, (i) => {
+      return i * 6 *300*5
+    })
+    console.log('d2', JSON.stringify(d4))
+    const option = {
+      color:['#66668B', '#9BBC98', '#C2B099', '#C18265', '#A86355'],
+      title: {
+        text: 'Sales forecast'
+      },
+      tooltip: {
+        trigger: 'axis'
+      },
+      legend: {
+        data: ['Clients', 'Orders', 'Sales']
+      },
+      grid: {
+        left: '3%',
+        right: '4%',
+        bottom: '3%',
+        containLabel: true
+      },
+      toolbox: {
+        feature: {
+          saveAsImage: {}
+        }
+      },
+      xAxis: {
+        type: 'category',
+        boundaryGap: false,
+        data: ['2021', '2022', '2023', '2024', '2025', '2026', '2027']
+      },
+      yAxis: {
+        type: 'value'
+      },
+      series: [
+        {
+          name: 'Orders',
+          type: 'line',
+          data: d1
+        },
+        {
+          name: 'Sales',
+          type: 'line',
+          data: d2
+        }
+      ]
+    }
+
+    Chart.setOption(option)
+  })
+
+</script>
+</body>
+</html>

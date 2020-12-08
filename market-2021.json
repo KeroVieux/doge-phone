@@ -1,0 +1,530 @@
+{
+  "CalculationId": 15555,
+  "DemandSummaries": [
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 0,
+      "PotentialSales": 981750,
+      "Market": 1,
+      "CountryId": 8
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 0,
+      "PotentialSales": 1636,
+      "Market": 1,
+      "CountryId": 10
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 0,
+      "PotentialSales": 294000,
+      "Market": 1,
+      "CountryId": 17
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 389702,
+      "PotentialSales": 831600,
+      "Market": 2,
+      "CountryId": 8
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 5462,
+      "PotentialSales": 15400,
+      "Market": 2,
+      "CountryId": 10
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 317935,
+      "PotentialSales": 875000,
+      "Market": 2,
+      "CountryId": 17
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 337346,
+      "PotentialSales": 585200,
+      "Market": 3,
+      "CountryId": 8
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 0,
+      "PotentialSales": 12320,
+      "Market": 3,
+      "CountryId": 10
+    },
+    {
+      "IsActiveOnMarket": true,
+      "OwnSales": 0,
+      "PotentialSales": 406000,
+      "Market": 3,
+      "CountryId": 17
+    }
+  ],
+  "Characteristics": [
+    {
+      "Market": 1,
+      "CountryId": 1,
+      "PotentialSales": 981750.000,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 2,
+      "CountryId": 1,
+      "PotentialSales": 123200.00,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 3,
+      "CountryId": 1,
+      "PotentialSales": 197120.00,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 1,
+      "CountryId": 2,
+      "PotentialSales": 818125.000,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 2,
+      "PotentialSales": 308000.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 2,
+      "PotentialSales": 221760.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 3,
+      "PotentialSales": 1112650.000,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 3,
+      "PotentialSales": 554400.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 3,
+      "PotentialSales": 770000.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 4,
+      "PotentialSales": 5390000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 4,
+      "PotentialSales": 1785000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 4,
+      "PotentialSales": 105000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 5,
+      "PotentialSales": 4900000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 5,
+      "PotentialSales": 294350.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 5,
+      "PotentialSales": 77000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 6,
+      "PotentialSales": 1470000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 6,
+      "PotentialSales": 1960000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 6,
+      "PotentialSales": 1575000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 7,
+      "PotentialSales": 1260000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 7,
+      "PotentialSales": 455000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 7,
+      "PotentialSales": 595000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 8,
+      "PotentialSales": 981750.000,
+      "NumberOfCompetitors": 4
+    },
+    {
+      "Market": 2,
+      "CountryId": 8,
+      "PotentialSales": 831600.00,
+      "NumberOfCompetitors": 4
+    },
+    {
+      "Market": 3,
+      "CountryId": 8,
+      "PotentialSales": 585200.00,
+      "NumberOfCompetitors": 4
+    },
+    {
+      "Market": 1,
+      "CountryId": 9,
+      "PotentialSales": 3500000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 9,
+      "PotentialSales": 42000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 9,
+      "PotentialSales": 665000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 10,
+      "PotentialSales": 1636.250,
+      "NumberOfCompetitors": 2
+    },
+    {
+      "Market": 2,
+      "CountryId": 10,
+      "PotentialSales": 15400.00,
+      "NumberOfCompetitors": 2
+    },
+    {
+      "Market": 3,
+      "CountryId": 10,
+      "PotentialSales": 12320.00,
+      "NumberOfCompetitors": 2
+    },
+    {
+      "Market": 1,
+      "CountryId": 11,
+      "PotentialSales": 1750000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 11,
+      "PotentialSales": 70000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 11,
+      "PotentialSales": 105000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 12,
+      "PotentialSales": 70000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 12,
+      "PotentialSales": 315000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 12,
+      "PotentialSales": 385000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 13,
+      "PotentialSales": 154000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 13,
+      "PotentialSales": 637000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 13,
+      "PotentialSales": 574000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 14,
+      "PotentialSales": 1060290.000,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 14,
+      "PotentialSales": 862400.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 14,
+      "PotentialSales": 813120.00,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 15,
+      "PotentialSales": 287000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 15,
+      "PotentialSales": 22400.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 15,
+      "PotentialSales": 31500.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 16,
+      "PotentialSales": 399000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 16,
+      "PotentialSales": 57400.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 16,
+      "PotentialSales": 87500.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 17,
+      "PotentialSales": 294000.0,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 2,
+      "CountryId": 17,
+      "PotentialSales": 875000.0,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 3,
+      "CountryId": 17,
+      "PotentialSales": 406000.0,
+      "NumberOfCompetitors": 1
+    },
+    {
+      "Market": 1,
+      "CountryId": 18,
+      "PotentialSales": 1470000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 18,
+      "PotentialSales": 182000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 18,
+      "PotentialSales": 252000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 19,
+      "PotentialSales": 10500.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 19,
+      "PotentialSales": 3150.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 19,
+      "PotentialSales": 4550.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 20,
+      "PotentialSales": 98000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 20,
+      "PotentialSales": 133000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 20,
+      "PotentialSales": 112000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 21,
+      "PotentialSales": 1260000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 2,
+      "CountryId": 21,
+      "PotentialSales": 371000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 3,
+      "CountryId": 21,
+      "PotentialSales": 224000.0,
+      "NumberOfCompetitors": 0
+    },
+    {
+      "Market": 1,
+      "CountryId": 22,
+      "PotentialSales": 770000.0,
+      "NumberOfCompetitors": 2
+    },
+    {
+      "Market": 2,
+      "CountryId": 22,
+      "PotentialSales": 616000.0,
+      "NumberOfCompetitors": 2
+    },
+    {
+      "Market": 3,
+      "CountryId": 22,
+      "PotentialSales": 420000.0,
+      "NumberOfCompetitors": 2
+    }
+  ],
+  "Countries": [
+    {
+      "Id": 1,
+      "Name": null
+    },
+    {
+      "Id": 2,
+      "Name": null
+    },
+    {
+      "Id": 3,
+      "Name": null
+    },
+    {
+      "Id": 8,
+      "Name": null
+    },
+    {
+      "Id": 10,
+      "Name": null
+    },
+    {
+      "Id": 13,
+      "Name": null
+    },
+    {
+      "Id": 14,
+      "Name": null
+    },
+    {
+      "Id": 15,
+      "Name": null
+    },
+    {
+      "Id": 16,
+      "Name": null
+    },
+    {
+      "Id": 17,
+      "Name": null
+    },
+    {
+      "Id": 22,
+      "Name": null
+    }
+  ],
+  "Periods": [
+    {
+      "Period": 2023,
+      "CalculationId": 15599
+    },
+    {
+      "Period": 2022,
+      "CalculationId": 15577
+    },
+    {
+      "Period": 2021,
+      "CalculationId": 15555
+    },
+    {
+      "Period": 2020,
+      "CalculationId": 15533
+    }
+  ]
+}

@@ -1,0 +1,1446 @@
+[
+  {
+    "CountryId": 2,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 10000000,
+    "CostsBeingActive": 4500000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": true,
+    "Supplier": 0,
+    "OrderFrom": 7000,
+    "OrderTo": 12500,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 6,
+    "StorageSizes": [
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      90000,
+      135000,
+      180000,
+      270000,
+      450000,
+      630000,
+      900000
+    ],
+    "PenetrationMarketingCosts": 1000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 3,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 4,
+    "RequiredFTEForHeadQuarters": 2,
+    "IsCurrentRound": false,
+    "Remuneration": 47702,
+    "SmartphonesPerFTE": 1500,
+    "AdditionalStaffInCountry": 3,
+    "MaximumMarketingBudget": 10000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 2,
+        "PotentialSales": 818125
+      },
+      {
+        "Market": 2,
+        "CountryId": 2,
+        "PotentialSales": 308000
+      },
+      {
+        "Market": 3,
+        "CountryId": 2,
+        "PotentialSales": 221760
+      }
+    ],
+    "countryName": "BE",
+    "totalPotential": 529760,
+    "costPerPotentialSales": 10.58
+  },
+  {
+    "CountryId": 18,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 18000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      90000,
+      120000,
+      180000,
+      300000,
+      420000,
+      600000,
+      840000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 4,
+    "Individualism": 2,
+    "PowerDistance": 2,
+    "UncertaintyAvoidance": 4,
+    "RequiredFTEForHeadQuarters": 8,
+    "IsCurrentRound": false,
+    "Remuneration": 31500,
+    "SmartphonesPerFTE": 1050,
+    "AdditionalStaffInCountry": 12,
+    "MaximumMarketingBudget": 70000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 4,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 18,
+        "PotentialSales": 1470000
+      },
+      {
+        "Market": 2,
+        "CountryId": 18,
+        "PotentialSales": 182000
+      },
+      {
+        "Market": 3,
+        "CountryId": 18,
+        "PotentialSales": 252000
+      }
+    ],
+    "countryName": "BR",
+    "totalPotential": 434000,
+    "costPerPotentialSales": 70.94
+  },
+  {
+    "CountryId": 22,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 19000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      150000,
+      198000,
+      198000,
+      490000,
+      682000,
+      970000,
+      1700000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 3,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 8,
+    "IsCurrentRound": false,
+    "Remuneration": 45000,
+    "SmartphonesPerFTE": 1250,
+    "AdditionalStaffInCountry": 5,
+    "MaximumMarketingBudget": 42000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 3,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 22,
+        "PotentialSales": 770000
+      },
+      {
+        "Market": 2,
+        "CountryId": 22,
+        "PotentialSales": 616000
+      },
+      {
+        "Market": 3,
+        "CountryId": 22,
+        "PotentialSales": 420000
+      }
+    ],
+    "countryName": "CA",
+    "totalPotential": 1036000,
+    "costPerPotentialSales": 30.76
+  },
+  {
+    "CountryId": 4,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 70000000,
+    "CostsBeingActive": 25000000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": true,
+    "Supplier": 0,
+    "OrderFrom": 15000,
+    "OrderTo": 25000,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 4,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      99000,
+      132000,
+      198000,
+      330000,
+      600000,
+      900000,
+      1600000
+    ],
+    "PenetrationMarketingCosts": 15000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 3,
+    "Individualism": 0,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 1,
+    "RequiredFTEForHeadQuarters": 15,
+    "IsCurrentRound": false,
+    "Remuneration": 15000,
+    "SmartphonesPerFTE": 1750,
+    "AdditionalStaffInCountry": 25,
+    "MaximumMarketingBudget": 70000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 5,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 4,
+        "PotentialSales": 5390000
+      },
+      {
+        "Market": 2,
+        "CountryId": 4,
+        "PotentialSales": 1785000
+      },
+      {
+        "Market": 3,
+        "CountryId": 4,
+        "PotentialSales": 105000
+      }
+    ],
+    "countryName": "CN",
+    "totalPotential": 1890000,
+    "costPerPotentialSales": 21.32
+  },
+  {
+    "CountryId": 3,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 25000000,
+    "CostsBeingActive": 12500000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": true,
+    "Supplier": 0,
+    "OrderFrom": 15000,
+    "OrderTo": 28250,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 6,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      165000,
+      220000,
+      330000,
+      550000,
+      770000,
+      1100000,
+      1800000
+    ],
+    "PenetrationMarketingCosts": 10000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 3,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 4,
+    "RequiredFTEForHeadQuarters": 3,
+    "IsCurrentRound": false,
+    "Remuneration": 41252,
+    "SmartphonesPerFTE": 1250,
+    "AdditionalStaffInCountry": 3,
+    "MaximumMarketingBudget": 25000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 2,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 3,
+        "PotentialSales": 1112650
+      },
+      {
+        "Market": 2,
+        "CountryId": 3,
+        "PotentialSales": 554400
+      },
+      {
+        "Market": 3,
+        "CountryId": 3,
+        "PotentialSales": 770000
+      }
+    ],
+    "countryName": "FR",
+    "totalPotential": 1324400,
+    "costPerPotentialSales": 17.08
+  },
+  {
+    "CountryId": 14,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 25000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      110000,
+      150000,
+      220000,
+      370000,
+      525000,
+      725000,
+      1200000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 3,
+    "Individualism": 3,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 3,
+    "RequiredFTEForHeadQuarters": 8,
+    "IsCurrentRound": false,
+    "Remuneration": 45800,
+    "SmartphonesPerFTE": 1600,
+    "AdditionalStaffInCountry": 12,
+    "MaximumMarketingBudget": 50000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 5,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 14,
+        "PotentialSales": 1060290
+      },
+      {
+        "Market": 2,
+        "CountryId": 14,
+        "PotentialSales": 862400
+      },
+      {
+        "Market": 3,
+        "CountryId": 14,
+        "PotentialSales": 813120
+      }
+    ],
+    "countryName": "GE1",
+    "totalPotential": 1675520,
+    "costPerPotentialSales": 22.62
+  },
+  {
+    "CountryId": 21,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 6000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      90000,
+      120000,
+      180000,
+      300000,
+      420000,
+      600000,
+      840000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 0,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 16,
+    "IsCurrentRound": false,
+    "Remuneration": 16400,
+    "SmartphonesPerFTE": 920,
+    "AdditionalStaffInCountry": 16,
+    "MaximumMarketingBudget": 40000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 3,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 21,
+        "PotentialSales": 1260000
+      },
+      {
+        "Market": 2,
+        "CountryId": 21,
+        "PotentialSales": 371000
+      },
+      {
+        "Market": 3,
+        "CountryId": 21,
+        "PotentialSales": 224000
+      }
+    ],
+    "countryName": "ID",
+    "totalPotential": 595000,
+    "costPerPotentialSales": 31.62
+  },
+  {
+    "CountryId": 5,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 10000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      108000,
+      144000,
+      216000,
+      360000,
+      504000,
+      720000,
+      1080000
+    ],
+    "PenetrationMarketingCosts": 8500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 2,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 1,
+    "RequiredFTEForHeadQuarters": 14,
+    "IsCurrentRound": false,
+    "Remuneration": 25000,
+    "SmartphonesPerFTE": 850,
+    "AdditionalStaffInCountry": 25,
+    "MaximumMarketingBudget": 60000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 4,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 5,
+        "PotentialSales": 4900000
+      },
+      {
+        "Market": 2,
+        "CountryId": 5,
+        "PotentialSales": 294350
+      },
+      {
+        "Market": 3,
+        "CountryId": 5,
+        "PotentialSales": 77000
+      }
+    ],
+    "countryName": "IN",
+    "totalPotential": 371350,
+    "costPerPotentialSales": 50.98
+  },
+  {
+    "CountryId": 17,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 70000000,
+    "CostsBeingActive": 22500000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 12000,
+    "OrderTo": 18000,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 4,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      112500,
+      150000,
+      225000,
+      375000,
+      525000,
+      750000,
+      1050000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 4,
+    "Individualism": 2,
+    "PowerDistance": 2,
+    "UncertaintyAvoidance": 4,
+    "RequiredFTEForHeadQuarters": 10,
+    "IsCurrentRound": false,
+    "Remuneration": 57500,
+    "SmartphonesPerFTE": 1850,
+    "AdditionalStaffInCountry": 16,
+    "MaximumMarketingBudget": 70000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 5,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 17,
+        "PotentialSales": 294000
+      },
+      {
+        "Market": 2,
+        "CountryId": 17,
+        "PotentialSales": 875000
+      },
+      {
+        "Market": 3,
+        "CountryId": 17,
+        "PotentialSales": 406000
+      }
+    ],
+    "countryName": "JP",
+    "totalPotential": 1281000,
+    "costPerPotentialSales": 27.81
+  },
+  {
+    "CountryId": 11,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 17500000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      117000,
+      156000,
+      234000,
+      390000,
+      546000,
+      780000,
+      1300000
+    ],
+    "PenetrationMarketingCosts": 20000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 1,
+    "PowerDistance": 4,
+    "UncertaintyAvoidance": 1,
+    "RequiredFTEForHeadQuarters": 4,
+    "IsCurrentRound": false,
+    "Remuneration": 35000,
+    "SmartphonesPerFTE": 1150,
+    "AdditionalStaffInCountry": 10,
+    "MaximumMarketingBudget": 40000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 5,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 11,
+        "PotentialSales": 1750000
+      },
+      {
+        "Market": 2,
+        "CountryId": 11,
+        "PotentialSales": 70000
+      },
+      {
+        "Market": 3,
+        "CountryId": 11,
+        "PotentialSales": 105000
+      }
+    ],
+    "countryName": "CA",
+    "totalPotential": 175000,
+    "costPerPotentialSales": 215.2
+  },
+  {
+    "CountryId": 10,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 500000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      250,
+      500,
+      750,
+      1000,
+      1500,
+      2500,
+      5000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      18000,
+      38000,
+      60000,
+      90000,
+      140000,
+      180000,
+      300000
+    ],
+    "PenetrationMarketingCosts": 1000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 2,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 3,
+    "RequiredFTEForHeadQuarters": 1,
+    "IsCurrentRound": false,
+    "Remuneration": 55000,
+    "SmartphonesPerFTE": 850,
+    "AdditionalStaffInCountry": 1,
+    "MaximumMarketingBudget": 10000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 3,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 10,
+        "PotentialSales": 1636.25
+      },
+      {
+        "Market": 2,
+        "CountryId": 10,
+        "PotentialSales": 15400
+      },
+      {
+        "Market": 3,
+        "CountryId": 10,
+        "PotentialSales": 12320
+      }
+    ],
+    "countryName": "MO",
+    "totalPotential": 27720,
+    "costPerPotentialSales": 56.21
+  },
+  {
+    "CountryId": 16,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 9000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      27000,
+      57000,
+      90000,
+      135000,
+      210000,
+      270000,
+      450000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 1,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 6,
+    "IsCurrentRound": false,
+    "Remuneration": 13500,
+    "SmartphonesPerFTE": 790,
+    "AdditionalStaffInCountry": 10,
+    "MaximumMarketingBudget": 50000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 16,
+        "PotentialSales": 399000
+      },
+      {
+        "Market": 2,
+        "CountryId": 16,
+        "PotentialSales": 57400
+      },
+      {
+        "Market": 3,
+        "CountryId": 16,
+        "PotentialSales": 87500
+      }
+    ],
+    "countryName": "NG",
+    "totalPotential": 144900,
+    "costPerPotentialSales": 149.1
+  },
+  {
+    "CountryId": 1,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 7500000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      100000,
+      150000,
+      200000,
+      300000,
+      500000,
+      700000,
+      1000000
+    ],
+    "PenetrationMarketingCosts": 1000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 0,
+    "Individualism": 3,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 2,
+    "IsCurrentRound": false,
+    "Remuneration": 50670,
+    "SmartphonesPerFTE": 1500,
+    "AdditionalStaffInCountry": 5,
+    "MaximumMarketingBudget": 15000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 1,
+        "PotentialSales": 981750
+      },
+      {
+        "Market": 2,
+        "CountryId": 1,
+        "PotentialSales": 123200
+      },
+      {
+        "Market": 3,
+        "CountryId": 1,
+        "PotentialSales": 197120
+      }
+    ],
+    "countryName": "NL",
+    "totalPotential": 320320,
+    "costPerPotentialSales": 26.9
+  },
+  {
+    "CountryId": 15,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 5500000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      22500,
+      47500,
+      75000,
+      112500,
+      175000,
+      225000,
+      375000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 3,
+    "Individualism": 3,
+    "PowerDistance": 2,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 4,
+    "IsCurrentRound": false,
+    "Remuneration": 14000,
+    "SmartphonesPerFTE": 820,
+    "AdditionalStaffInCountry": 8,
+    "MaximumMarketingBudget": 25000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 15,
+        "PotentialSales": 287000
+      },
+      {
+        "Market": 2,
+        "CountryId": 15,
+        "PotentialSales": 22400
+      },
+      {
+        "Market": 3,
+        "CountryId": 15,
+        "PotentialSales": 31500
+      }
+    ],
+    "countryName": "GE",
+    "totalPotential": 53900,
+    "costPerPotentialSales": 335.4
+  },
+  {
+    "CountryId": 12,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 12500000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      135000,
+      180000,
+      270000,
+      450000,
+      630000,
+      900000,
+      1500000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 0,
+    "PowerDistance": 3,
+    "UncertaintyAvoidance": 0,
+    "RequiredFTEForHeadQuarters": 6,
+    "IsCurrentRound": false,
+    "Remuneration": 61000,
+    "SmartphonesPerFTE": 950,
+    "AdditionalStaffInCountry": 8,
+    "MaximumMarketingBudget": 25000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 5,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 12,
+        "PotentialSales": 70000
+      },
+      {
+        "Market": 2,
+        "CountryId": 12,
+        "PotentialSales": 315000
+      },
+      {
+        "Market": 3,
+        "CountryId": 12,
+        "PotentialSales": 385000
+      }
+    ],
+    "countryName": "SG",
+    "totalPotential": 700000,
+    "costPerPotentialSales": 36.27
+  },
+  {
+    "CountryId": 19,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 1000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      250,
+      500,
+      750,
+      1000,
+      1500,
+      2500,
+      5000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      18000,
+      38000,
+      60000,
+      90000,
+      140000,
+      180000,
+      300000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 1,
+    "Individualism": 2,
+    "PowerDistance": 4,
+    "UncertaintyAvoidance": 4,
+    "RequiredFTEForHeadQuarters": 1,
+    "IsCurrentRound": false,
+    "Remuneration": 15800,
+    "SmartphonesPerFTE": 1350,
+    "AdditionalStaffInCountry": 1,
+    "MaximumMarketingBudget": 10000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 19,
+        "PotentialSales": 10500
+      },
+      {
+        "Market": 2,
+        "CountryId": 19,
+        "PotentialSales": 3150
+      },
+      {
+        "Market": 3,
+        "CountryId": 19,
+        "PotentialSales": 4550
+      }
+    ],
+    "countryName": "SU",
+    "totalPotential": 7700,
+    "costPerPotentialSales": 1755
+  },
+  {
+    "CountryId": 13,
+    "Price": 0,
+    "IsActive": false,
+    "MarketingBudget": 0,
+    "CostsBeingActive": 6000000,
+    "UseLocalHRBusinessPartner": false,
+    "HasAutonomy": false,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 0,
+    "OrderTo": 0,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 0,
+    "StorageSize": 0,
+    "StorageSizes": [
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      67500,
+      101250,
+      135000,
+      202500,
+      337500,
+      472500,
+      675000
+    ],
+    "PenetrationMarketingCosts": 12500000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 2,
+    "Individualism": 1,
+    "PowerDistance": 4,
+    "UncertaintyAvoidance": 3,
+    "RequiredFTEForHeadQuarters": 2,
+    "IsCurrentRound": false,
+    "Remuneration": 65000,
+    "SmartphonesPerFTE": 960,
+    "AdditionalStaffInCountry": 6,
+    "MaximumMarketingBudget": 25000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 13,
+        "PotentialSales": 154000
+      },
+      {
+        "Market": 2,
+        "CountryId": 13,
+        "PotentialSales": 637000
+      },
+      {
+        "Market": 3,
+        "CountryId": 13,
+        "PotentialSales": 574000
+      }
+    ],
+    "countryName": "UAE",
+    "totalPotential": 1211000,
+    "costPerPotentialSales": 15.4
+  },
+  {
+    "CountryId": 8,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 40000000,
+    "CostsBeingActive": 18000000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": false,
+    "Supplier": 0,
+    "OrderFrom": 10000,
+    "OrderTo": 15000,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 6,
+    "StorageSizes": [
+      1000,
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      180000,
+      240000,
+      360000,
+      600000,
+      840000,
+      1200000,
+      2000000
+    ],
+    "PenetrationMarketingCosts": 10000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 3,
+    "Individualism": 4,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 1,
+    "RequiredFTEForHeadQuarters": 3,
+    "IsCurrentRound": false,
+    "Remuneration": 41000,
+    "SmartphonesPerFTE": 1180,
+    "AdditionalStaffInCountry": 10,
+    "MaximumMarketingBudget": 40000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 1,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 8,
+        "PotentialSales": 981750
+      },
+      {
+        "Market": 2,
+        "CountryId": 8,
+        "PotentialSales": 831600
+      },
+      {
+        "Market": 3,
+        "CountryId": 8,
+        "PotentialSales": 585200
+      }
+    ],
+    "countryName": "UK",
+    "totalPotential": 1416800,
+    "costPerPotentialSales": 19.87
+  },
+  {
+    "CountryId": 6,
+    "Price": 699,
+    "IsActive": true,
+    "MarketingBudget": 80000000,
+    "CostsBeingActive": 25000000,
+    "UseLocalHRBusinessPartner": true,
+    "HasAutonomy": true,
+    "PenetrationMarketing": true,
+    "Supplier": 0,
+    "OrderFrom": 80000,
+    "OrderTo": 100000,
+    "OrderUntillMonth": 0,
+    "StorageContractTime": 1,
+    "StorageSize": 6,
+    "StorageSizes": [
+      2000,
+      5000,
+      10000,
+      25000,
+      50000,
+      100000,
+      200000
+    ],
+    "DiscountPercentage": [
+      0,
+      0,
+      0.02,
+      0.05,
+      0.15,
+      0.3
+    ],
+    "StorageCosts": [
+      210000,
+      280000,
+      420000,
+      700000,
+      980000,
+      1400000,
+      2400000
+    ],
+    "PenetrationMarketingCosts": 20000000,
+    "PriceBusinessPartner": 75000,
+    "Masculinity": 3,
+    "Individualism": 4,
+    "PowerDistance": 1,
+    "UncertaintyAvoidance": 2,
+    "RequiredFTEForHeadQuarters": 20,
+    "IsCurrentRound": false,
+    "Remuneration": 58714,
+    "SmartphonesPerFTE": 1050,
+    "AdditionalStaffInCountry": 25,
+    "MaximumMarketingBudget": 80000000,
+    "TargetGroups": [],
+    "LocalCompetitionStrength": 2,
+    "Characteristics": [
+      {
+        "Market": 1,
+        "CountryId": 6,
+        "PotentialSales": 1396500
+      },
+      {
+        "Market": 2,
+        "CountryId": 6,
+        "PotentialSales": 1862000
+      },
+      {
+        "Market": 3,
+        "CountryId": 6,
+        "PotentialSales": 1496250
+      }
+    ],
+    "countryName": "US",
+    "totalPotential": 3358250,
+    "costPerPotentialSales": 13.77
+  }
+]

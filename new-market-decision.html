@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analysis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://hidoge.cn:8080/ownLib/css/common.css">
+</head>
+<body>
+<div id="main" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<div id="main1" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<script src="assets/echarts.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/jquery.min.js"></script>
+<script type="text/javascript">
+  $(async () => {
+    const org = await $.getJSON('./country-data/all-process.json')
+    const Chart = echarts.init(document.getElementById('main'));
+    const Chart1 = echarts.init(document.getElementById('main1'));
+
+    const option = {
+      color: ['#CDC9AA'],
+      title: {
+        text: 'basic customer acquisition budget',
+      },
+      tooltip: {
+        trigger: 'axis'
+      },
+      legend: {
+        data: ['costPerPotentialSales', 'totalPotential']
+      },
+      toolbox: {
+        show: true,
+        feature: {
+          dataView: {show: true, readOnly: false},
+          magicType: {show: true, type: ['line', 'bar']},
+          restore: {show: true},
+          saveAsImage: {show: true}
+        }
+      },
+      calculable: true,
+      xAxis: [
+        {
+          type: 'category',
+          data: _.map(org, (i) => {
+            return i.countryName
+          })
+        }
+      ],
+      yAxis: [
+        {
+          type: 'value'
+        }
+      ],
+      series: [
+        {
+          name: 'costPerPotentialSales',
+          type: 'bar',
+          data: _.map(org, (i) => {
+            return i.costPerPotentialSales
+          }),
+          markPoint: {
+            data: [
+              {type: 'max', name: '最大值'},
+              {type: 'min', name: '最小值'}
+            ]
+          },
+          markLine: {
+            data: [
+              {type: 'average', name: '平均值'}
+            ]
+          }
+        },
+      ]
+    };
+
+    const option1 = {
+      color: ["#B9C5AF"],
+      title: {
+        text: 'totalPotential',
+      },
+      tooltip: {
+        trigger: 'axis'
+      },
+      legend: {
+        data: ['totalPotential']
+      },
+      toolbox: {
+        show: true,
+        feature: {
+          dataView: {show: true, readOnly: false},
+          magicType: {show: true, type: ['line', 'bar']},
+          restore: {show: true},
+          saveAsImage: {show: true}
+        }
+      },
+      calculable: true,
+      xAxis: [
+        {
+          type: 'category',
+          data: _.map(org, (i) => {
+            return i.countryName
+          })
+        }
+      ],
+      yAxis: [
+        {
+          type: 'value'
+        }
+      ],
+      series: [
+        {
+          name: 'totalPotential',
+          type: 'bar',
+          data: _.map(org, (i) => {
+            return i.totalPotential
+          }),
+          markPoint: {
+            data: [
+              {type: 'max', name: '最大值'},
+              {type: 'min', name: '最小值'}
+            ]
+          },
+          markLine: {
+            data: [
+              {type: 'average', name: '平均值'}
+            ]
+          }
+        }
+      ]
+    };
+
+    Chart.setOption(option)
+    Chart1.setOption(option1)
+  })
+
+</script>
+</body>
+</html>

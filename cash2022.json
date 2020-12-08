@@ -1,0 +1,56 @@
+{
+  "CashflowItem": {
+    "Period": 2022,
+    "SalesIncome": 2799312250.00000,
+    "NewLoan": 0.00000,
+    "IncreaseCurrentAccount": 0.00000,
+    "Emission": 0.00000,
+    "IncidentalIncome": 0.00000,
+    "AuctionPayment": 0.00000,
+    "SupplierBonus": 15275682.50000,
+    "GovernmentOffer": 0.00000,
+    "TotalIncome": 2799312250.00000,
+    "LandAndBuilding": 0.00000,
+    "PaidCreditors": 1458962785.00000,
+    "Staff": 238324864.84800,
+    "HRSystemCosts": 16000.00000,
+    "HROnboardingCosts": 3881000.00000,
+    "HRHighPotentialCosts": 10000.00000,
+    "SocialSecurity": 71497459.45440,
+    "ManagementPayments": 83000.00000,
+    "ResearchAndDevelopment": 47250000.00000,
+    "Equipment": 12500000.00000,
+    "MarketingCosts": 246475000.00000,
+    "Distribution": 0.00000,
+    "GeneralMaintenanceCosts": 25000.00000,
+    "WarehouseMaintenanceCosts": 0.00000,
+    "PaidInterest": 140000.00000,
+    "EducationCosts": 944500.00000,
+    "RepaidLoan": 1000000.00000,
+    "RepaidCurrentAccount": 0.00000,
+    "EmissionCosts": 0.00000,
+    "ServerancePayments": 0.00000,
+    "IncidentalCosts": 0.00000,
+    "ExternalStaff": 15895000.00000,
+    "StaffOverhead": 570000.00000,
+    "LocationCosts": 82500000.00000,
+    "RelocateHeadQuarterCosts": 2500000.00000,
+    "StorageRentCosts": 3775000.00000,
+    "TotalExpenses": 2171073926.80240
+  },
+  "Periods": [
+    {
+      "Period": 2022,
+      "CalculationId": 15577
+    },
+    {
+      "Period": 2021,
+      "CalculationId": 15555
+    },
+    {
+      "Period": 2020,
+      "CalculationId": 15533
+    }
+  ],
+  "CalculationId": 15577
+}

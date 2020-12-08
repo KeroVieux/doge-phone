@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analysis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://hidoge.cn:8080/ownLib/css/common.css">
+</head>
+<body>
+<div id="main" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<div id="main1" style="width: 1200px;height:500px;" class="m-b-30"></div>
+<script src="assets/echarts.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/lodash.min.js"></script>
+<script src="http://hidoge.cn:8080/ownLib/js/jquery.min.js"></script>
+<script type="text/javascript">
+  $(async () => {
+    const m20 = await $.getJSON('./market-process-2020.json')
+    const m21 = await $.getJSON('./market-process-2021.json')
+    const m22 = await $.getJSON('./market-process-2022.json')
+    const m23 = await $.getJSON('./market-process-2023.json')
+    const countries = []
+    let data20 = []
+    let data21 = []
+    let data22 = []
+    let data23 = []
+    for (const prop in m23) {
+        if (m23.hasOwnProperty(prop)) {
+          countries.push(prop)
+          data23.push(m23[prop].twoRatio)
+          if (m20[prop]) {
+            data20.push(m20[prop].threeRatio)
+          } else {
+            data20.push(0)
+          }
+          if (m21[prop]) {
+            data21.push(m21[prop].twoRatio)
+          } else {
+            data21.push(0)
+          }
+          if (m22[prop]) {
+            data22.push(m22[prop].twoRatio)
+          } else {
+            data22.push(0)
+          }
+        }
+    }
+    data20 = [_.mean(_.filter(data20, (i) => {
+      if (i > 0) {
+        return i
+      }
+    })), ...data20]
+    data21 = [_.mean(_.filter(data21, (i) => {
+      if (i > 0) {
+        return i
+      }
+    })), ...data21]
+    data22 = [_.mean(_.filter(data22, (i) => {
+      if (i > 0) {
+        return i
+      }
+    })), ...data22]
+    data23 = [_.mean(_.filter(data23, (i) => {
+      if (i > 0) {
+        return i
+      }
+    })), ...data23]
+    const allCountries = ['overview', ...countries]
+    const Chart = echarts.init(document.getElementById('main'));
+    const Chart1 = echarts.init(document.getElementById('main1'));
+    const separate = _.map(countries, (i) => {
+      return [i, 0, 0, 0, 0, 0, 0]
+    })
+    _.forEach(m23, (i) => {
+      const cIndex = _.indexOf(countries, i.countryName)
+      if (cIndex > -1) {
+        separate[cIndex][1] = i.OwnSales ? _.sum(i.OwnSales) : 0
+      }
+    })
+    _.forEach(m22, (i) => {
+      const cIndex = _.indexOf(countries, i.countryName)
+      if (cIndex > -1) {
+        separate[cIndex][2] = i.OwnSales ? _.sum(i.OwnSales) : 0
+      }
+    })
+    _.forEach(m21, (i) => {
+      const cIndex = _.indexOf(countries, i.countryName)
+      if (cIndex > -1) {
+        separate[cIndex][3] = i.OwnSales ? _.sum(i.OwnSales) : 0
+      }
+    })
+    _.forEach(m20, (i) => {
+      const cIndex = _.indexOf(countries, i.countryName)
+      if (cIndex > -1) {
+        separate[cIndex][4] = i.OwnSales ? _.sum(i.OwnSales) : 0
+      }
+    })
+    console.log('separate', separate)
+    const option = {
+      color:['#90A5A7', '#C2B099', '#C18265', '#A86355'],
+      title: {
+        text: 'market shares'
+      },
+      tooltip: {
+        trigger: 'axis',
+        axisPointer: {
+          type: 'shadow'
+        }
+      },
+      legend: {
+        data: ['2021', '2022', '2023']
+      },
+      yAxis: {
+        type: 'value',
+      },
+      xAxis: {
+        type: 'category',
+        data: allCountries
+      },
+      series: [
+        {
+          name: '2021',
+          type: 'bar',
+          data: data21
+        },
+        {
+          name: '2022',
+          type: 'bar',
+          data: data22
+        },
+        {
+          name: '2023',
+          type: 'bar',
+          data: data23
+        }
+      ]
+    };
+
+    const option1 = {
+      color:['#90A5A7', '#F0DFA7', '#C2B099', '#C18265', '#A86355'],
+      title: [{
+        text: 'phones have sold to'
+      }, {
+        subtext: '2023',
+        left: '25%',
+        top: '45%',
+        textAlign: 'center'
+      }, {
+        subtext: '2022',
+        left: '75%',
+        top: '45%',
+        textAlign: 'center'
+      }, {
+        subtext: '2021',
+        left: '25%',
+        top: '87%',
+        textAlign: 'center'
+      },{
+        subtext: '2020',
+        left: '75%',
+        top: '87%',
+        textAlign: 'center'
+      }],
+      legend: {},
+      tooltip: {},
+      dataset: {
+        source: [
+          ['country', '2023', '2022', '2021', '2020'],
+          separate[1],
+          separate[2],
+          separate[3],
+          separate[4],
+          separate[5],
+        ]
+      },
+      series: [{
+        type: 'pie',
+        radius: 60,
+        center: ['25%', '30%'],
+        encode: {
+          itemName: 'country',
+          value: '2023'
+        }
+      }, {
+        type: 'pie',
+        radius: 60,
+        center: ['75%', '30%'],
+        encode: {
+          itemName: 'country',
+          value: '2022'
+        }
+      }, {
+        type: 'pie',
+        radius: 60,
+        center: ['25%', '75%'],
+        encode: {
+          itemName: 'country',
+          value: '2021'
+        }
+      }, {
+        type: 'pie',
+        radius: 60,
+        center: ['75%', '75%'],
+        encode: {
+          itemName: 'country',
+          value: '2020'
+        }
+      }]
+    }
+
+    Chart.setOption(option)
+    Chart1.setOption(option1)
+  })
+
+</script>
+</body>
+</html>

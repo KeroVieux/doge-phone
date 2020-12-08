@@ -1,0 +1,164 @@
+{
+  "ProfitLossItem": {
+    "Period": 2022,
+    "SalesIncome": 2998609250.00000,
+    "CostOfStockSold": 1533903962.50000,
+    "GrossMargin": 1464705287.50000,
+    "EmissionCosts": 0.00000,
+    "GeneralMaintenanceCosts": 25000.00000,
+    "WarehouseMaintenanceCosts": 0.00000,
+    "Remuneration": 238324864.84800,
+    "SocialSecurity": 71497459.45440,
+    "HRSystemCosts": 16000.00000,
+    "AuctionPayment": 0.00000,
+    "SupplierBonus": 15275682.50000,
+    "HRHighPotentialCosts": 10000.00000,
+    "EducationCosts": 944500.00000,
+    "HROnboardingCosts": 3881000.00000,
+    "GovernmentOffer": 0.00000,
+    "DepreciationNonfinancialAssets": 9457500.00000,
+    "DepreciationLandAndBuildings": 50000.00000,
+    "EquipmentDepreciation": 50000.00000,
+    "InterestCosts": 140000.00000,
+    "ServerancePayments": 0.00000,
+    "ManagementPayments": 83000.00000,
+    "NetInterestPayable": 140000.00000,
+    "SalesAndMarketing": 262370000.00000,
+    "AdministrativeExpenses": 418184324.30240,
+    "SumOfCosts": 680554324.30240,
+    "OperatingProfit": 799426645.69760,
+    "ProfitOnOrdinaryActivitiesBeforeTaxation": 799286645.69760,
+    "IncidentalProfit": 0.00000,
+    "IncidentalLoss": 0.00000,
+    "ExternalStaff": 15895000.00000,
+    "StaffOverhead": 570000.00000,
+    "OtherCostsAndIncome": 15275682.50000,
+    "NetSalesResult": 784150963.19760,
+    "LocationCosts": 82500000.00000,
+    "CompanyStructureCosts": 4500000.00000,
+    "StorageRentCosts": 3775000.00000,
+    "CountryProfitLoss": [
+      {
+        "CountryId": 2
+      },
+      {
+        "CountryId": 3
+      },
+      {
+        "CountryId": 6
+      },
+      {
+        "CountryId": 8
+      },
+      {
+        "CountryId": 17
+      }
+    ],
+    "RetainedProfit": 799286645.69760
+  },
+  "Periods": [
+    {
+      "Period": 2022,
+      "CalculationId": 15577
+    },
+    {
+      "Period": 2021,
+      "CalculationId": 15555
+    },
+    {
+      "Period": 2020,
+      "CalculationId": 15533
+    }
+  ],
+  "Countries": [
+    {
+      "Id": 1,
+      "Name": null
+    },
+    {
+      "Id": 2,
+      "Name": null
+    },
+    {
+      "Id": 3,
+      "Name": null
+    },
+    {
+      "Id": 4,
+      "Name": null
+    },
+    {
+      "Id": 5,
+      "Name": null
+    },
+    {
+      "Id": 6,
+      "Name": null
+    },
+    {
+      "Id": 7,
+      "Name": null
+    },
+    {
+      "Id": 8,
+      "Name": null
+    },
+    {
+      "Id": 9,
+      "Name": null
+    },
+    {
+      "Id": 10,
+      "Name": null
+    },
+    {
+      "Id": 11,
+      "Name": null
+    },
+    {
+      "Id": 12,
+      "Name": null
+    },
+    {
+      "Id": 13,
+      "Name": null
+    },
+    {
+      "Id": 14,
+      "Name": null
+    },
+    {
+      "Id": 15,
+      "Name": null
+    },
+    {
+      "Id": 16,
+      "Name": null
+    },
+    {
+      "Id": 17,
+      "Name": null
+    },
+    {
+      "Id": 18,
+      "Name": null
+    },
+    {
+      "Id": 19,
+      "Name": null
+    },
+    {
+      "Id": 20,
+      "Name": null
+    },
+    {
+      "Id": 21,
+      "Name": null
+    },
+    {
+      "Id": 22,
+      "Name": null
+    }
+  ],
+  "CalculationId": 15577
+}

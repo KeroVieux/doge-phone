@@ -1,0 +1,112 @@
+{
+  "BE": {
+    "countryName": "BE",
+    "countryId": 2,
+    "NumberOfCompetitors": 2,
+    "PotentialSales": [
+      818125,
+      308000,
+      221760
+    ],
+    "OwnSales": [
+      0,
+      288814,
+      124464
+    ],
+    "customerRatio": 56.12,
+    "qualityRatio": 93.77,
+    "twoRatio": 78.01,
+    "threeRatio": 30.66,
+    "revenue": 268630700,
+    "purchaseFee": 123983400,
+    "grossProfit": 144647300
+  },
+  "FR": {
+    "countryName": "FR",
+    "countryId": 3,
+    "NumberOfCompetitors": 2,
+    "PotentialSales": [
+      1112650,
+      554400,
+      770000
+    ],
+    "OwnSales": [
+      0,
+      361630,
+      588757
+    ],
+    "customerRatio": 76.46,
+    "qualityRatio": 65.22,
+    "twoRatio": 71.75,
+    "threeRatio": 38.99,
+    "revenue": 617751550,
+    "purchaseFee": 285116100,
+    "grossProfit": 332635450
+  },
+  "US": {
+    "countryName": "US",
+    "countryId": 6,
+    "NumberOfCompetitors": 2,
+    "PotentialSales": [
+      1396500,
+      1862000,
+      1496250
+    ],
+    "OwnSales": [
+      0,
+      1353058,
+      988078
+    ],
+    "customerRatio": 66.03,
+    "qualityRatio": 72.66,
+    "twoRatio": 69.71,
+    "threeRatio": 49.23,
+    "revenue": 1521738400,
+    "purchaseFee": 702340800,
+    "grossProfit": 819397600
+  },
+  "UK": {
+    "countryName": "UK",
+    "countryId": 8,
+    "NumberOfCompetitors": 4,
+    "PotentialSales": [
+      981750,
+      831600,
+      585200
+    ],
+    "OwnSales": [
+      0,
+      175272,
+      145577
+    ],
+    "customerRatio": 24.87,
+    "qualityRatio": 21.07,
+    "twoRatio": 22.64,
+    "threeRatio": 13.37,
+    "revenue": 208551850,
+    "purchaseFee": 96254700,
+    "grossProfit": 112297150
+  },
+  "JP": {
+    "countryName": "JP",
+    "countryId": 17,
+    "NumberOfCompetitors": 1,
+    "PotentialSales": [
+      294000,
+      875000,
+      406000
+    ],
+    "OwnSales": [
+      0,
+      338555,
+      249040
+    ],
+    "customerRatio": 61.33,
+    "qualityRatio": 38.69,
+    "twoRatio": 45.87,
+    "threeRatio": 37.3,
+    "revenue": 381936750,
+    "purchaseFee": 176278500,
+    "grossProfit": 205658250
+  }
+}

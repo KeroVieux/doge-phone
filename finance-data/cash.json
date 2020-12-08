@@ -1,0 +1,242 @@
+{
+  "23": {
+    "CashflowItem": {
+      "Period": 2023,
+      "SalesIncome": 4011731224.00000,
+      "NewLoan": 0.00000,
+      "IncreaseCurrentAccount": 0.00000,
+      "Emission": 0.00000,
+      "IncidentalIncome": 0.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 19316625.25000,
+      "GovernmentOffer": 0.00000,
+      "TotalIncome": 4011731224.00000,
+      "LandAndBuilding": 0.00000,
+      "PaidCreditors": 2211688577.50000,
+      "Staff": 229972625.17200,
+      "HRSystemCosts": 16000.00000,
+      "HROnboardingCosts": 987000.00000,
+      "HRHighPotentialCosts": 10000.00000,
+      "SocialSecurity": 68991787.55160,
+      "ManagementPayments": 83000.00000,
+      "ResearchAndDevelopment": 47250000.00000,
+      "Equipment": 0.00000,
+      "MarketingCosts": 341505000.00000,
+      "Distribution": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "PaidInterest": 120000.00000,
+      "EducationCosts": 537000.00000,
+      "RepaidLoan": 1000000.00000,
+      "RepaidCurrentAccount": 0.00000,
+      "EmissionCosts": 0.00000,
+      "ServerancePayments": 0.00000,
+      "IncidentalCosts": 0.00000,
+      "ExternalStaff": 17680000.00000,
+      "StaffOverhead": 685000.00000,
+      "LocationCosts": 107500000.00000,
+      "RelocateHeadQuarterCosts": 0.00000,
+      "StorageRentCosts": 5035000.00000,
+      "TotalExpenses": 3013769364.97360
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "CalculationId": 15599
+  },
+  "22": {
+    "CashflowItem": {
+      "Period": 2022,
+      "SalesIncome": 2799312250.00000,
+      "NewLoan": 0.00000,
+      "IncreaseCurrentAccount": 0.00000,
+      "Emission": 0.00000,
+      "IncidentalIncome": 0.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 15275682.50000,
+      "GovernmentOffer": 0.00000,
+      "TotalIncome": 2799312250.00000,
+      "LandAndBuilding": 0.00000,
+      "PaidCreditors": 1458962785.00000,
+      "Staff": 238324864.84800,
+      "HRSystemCosts": 16000.00000,
+      "HROnboardingCosts": 3881000.00000,
+      "HRHighPotentialCosts": 10000.00000,
+      "SocialSecurity": 71497459.45440,
+      "ManagementPayments": 83000.00000,
+      "ResearchAndDevelopment": 47250000.00000,
+      "Equipment": 12500000.00000,
+      "MarketingCosts": 246475000.00000,
+      "Distribution": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "PaidInterest": 140000.00000,
+      "EducationCosts": 944500.00000,
+      "RepaidLoan": 1000000.00000,
+      "RepaidCurrentAccount": 0.00000,
+      "EmissionCosts": 0.00000,
+      "ServerancePayments": 0.00000,
+      "IncidentalCosts": 0.00000,
+      "ExternalStaff": 15895000.00000,
+      "StaffOverhead": 570000.00000,
+      "LocationCosts": 82500000.00000,
+      "RelocateHeadQuarterCosts": 2500000.00000,
+      "StorageRentCosts": 3775000.00000,
+      "TotalExpenses": 2171073926.80240
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "CalculationId": 15577
+  },
+  "21": {
+    "CashflowItem": {
+      "Period": 2021,
+      "SalesIncome": 666508400.00000,
+      "NewLoan": 0.00000,
+      "IncreaseCurrentAccount": 0.00000,
+      "Emission": 0.00000,
+      "IncidentalIncome": 0.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 3484399.75000,
+      "GovernmentOffer": 0.00000,
+      "TotalIncome": 666508400.00000,
+      "LandAndBuilding": 0.00000,
+      "PaidCreditors": 344888140.00000,
+      "Staff": 38642510.00000,
+      "HRSystemCosts": 15000.00000,
+      "HROnboardingCosts": 1980000.00000,
+      "HRHighPotentialCosts": 0.00000,
+      "SocialSecurity": 11592753.00000,
+      "ManagementPayments": 83000.00000,
+      "ResearchAndDevelopment": 47250000.00000,
+      "Equipment": 0.00000,
+      "MarketingCosts": 30105000.00000,
+      "Distribution": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "PaidInterest": 160000.00000,
+      "EducationCosts": 1910100.00000,
+      "RepaidLoan": 1000000.00000,
+      "RepaidCurrentAccount": 0.00000,
+      "EmissionCosts": 0.00000,
+      "ServerancePayments": 0.00000,
+      "IncidentalCosts": 0.00000,
+      "ExternalStaff": 3145000.00000,
+      "StaffOverhead": 132500.00000,
+      "LocationCosts": 41000000.00000,
+      "RelocateHeadQuarterCosts": 0.00000,
+      "StorageRentCosts": 1395000.00000,
+      "TotalExpenses": 519839603.25000
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "CalculationId": 15555
+  },
+  "20": {
+    "CashflowItem": {
+      "Period": 2020,
+      "SalesIncome": 154733200.00000,
+      "NewLoan": 0.00000,
+      "IncreaseCurrentAccount": 0.00000,
+      "Emission": 0.00000,
+      "IncidentalIncome": 0.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 2839229.25000,
+      "GovernmentOffer": 0.00000,
+      "TotalIncome": 154733200.00000,
+      "LandAndBuilding": 0.00000,
+      "PaidCreditors": 205656495.00000,
+      "Staff": 31765200.00000,
+      "HRSystemCosts": 20000.00000,
+      "HROnboardingCosts": 3770000.00000,
+      "HRHighPotentialCosts": 0.00000,
+      "SocialSecurity": 9529560.00000,
+      "ManagementPayments": 40000.00000,
+      "ResearchAndDevelopment": 37500.00000,
+      "Equipment": 0.00000,
+      "MarketingCosts": 30105000.00000,
+      "Distribution": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "PaidInterest": 180000.00000,
+      "EducationCosts": 3802100.00000,
+      "RepaidLoan": 1000000.00000,
+      "RepaidCurrentAccount": 0.00000,
+      "EmissionCosts": 0.00000,
+      "ServerancePayments": 0.00000,
+      "IncidentalCosts": 0.00000,
+      "ExternalStaff": 1445000.00000,
+      "StaffOverhead": 107500.00000,
+      "LocationCosts": 18000000.00000,
+      "RelocateHeadQuarterCosts": 2500000.00000,
+      "StorageRentCosts": 840000.00000,
+      "TotalExpenses": 305984125.75000
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "CalculationId": 15533
+  }
+}

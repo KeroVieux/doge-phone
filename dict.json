@@ -1,0 +1,28 @@
+{
+  "marketName": ["", "price", "quality", "customer"],
+  "countries": [
+    "0",
+    "NL",
+    "BE",
+    "FR",
+    "CN",
+    "IN",
+    "US",
+    "7NL",
+    "UK",
+    "9",
+    "MO",
+    "ML",
+    "SG",
+    "UAE",
+    "GE",
+    "SA",
+    "NG",
+    "JP",
+    "BR",
+    "SU",
+    "20",
+    "ID",
+    "CA"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "UK": {
+    "countryName": "UK",
+    "countryId": 8,
+    "NumberOfCompetitors": 4,
+    "PotentialSales": [
+      981750,
+      831600,
+      585200
+    ],
+    "OwnSales": [
+      0,
+      389702,
+      337346
+    ],
+    "customerRatio": 57.64,
+    "qualityRatio": 46.86,
+    "twoRatio": 51.31,
+    "threeRatio": 30.31,
+    "revenue": 545286000,
+    "purchaseFee": 218114400,
+    "grossProfit": 327171600
+  },
+  "MO": {
+    "countryName": "MO",
+    "countryId": 10,
+    "NumberOfCompetitors": 2,
+    "PotentialSales": [
+      1636,
+      15400,
+      12320
+    ],
+    "OwnSales": [
+      0,
+      5462,
+      0
+    ],
+    "customerRatio": 0,
+    "qualityRatio": 35.46,
+    "twoRatio": 19.7,
+    "threeRatio": 18.6,
+    "revenue": 4096500,
+    "purchaseFee": 1638600,
+    "grossProfit": 2457900
+  },
+  "JP": {
+    "countryName": "JP",
+    "countryId": 17,
+    "NumberOfCompetitors": 1,
+    "PotentialSales": [
+      294000,
+      875000,
+      406000
+    ],
+    "OwnSales": [
+      0,
+      317935,
+      0
+    ],
+    "customerRatio": 0,
+    "qualityRatio": 36.33,
+    "twoRatio": 24.81,
+    "threeRatio": 20.18,
+    "revenue": 238451250,
+    "purchaseFee": 95380500,
+    "grossProfit": 143070750
+  }
+}

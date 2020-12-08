@@ -1,0 +1,659 @@
+{
+  "23": {
+    "ProfitLossItem": {
+      "Period": 2023,
+      "SalesIncome": 4107877608.00000,
+      "CostOfStockSold": 2241274690.00000,
+      "GrossMargin": 1866602918.00000,
+      "EmissionCosts": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "Remuneration": 229972625.17200,
+      "SocialSecurity": 68991787.55160,
+      "HRSystemCosts": 16000.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 19316625.25000,
+      "HRHighPotentialCosts": 10000.00000,
+      "EducationCosts": 537000.00000,
+      "HROnboardingCosts": 987000.00000,
+      "GovernmentOffer": 0.00000,
+      "DepreciationNonfinancialAssets": 18907500.00000,
+      "DepreciationLandAndBuildings": 50000.00000,
+      "EquipmentDepreciation": 50000.00000,
+      "InterestCosts": 120000.00000,
+      "ServerancePayments": 0.00000,
+      "ManagementPayments": 83000.00000,
+      "NetInterestPayable": 120000.00000,
+      "SalesAndMarketing": 359185000.00000,
+      "AdministrativeExpenses": 437349912.72360,
+      "SumOfCosts": 796534912.72360,
+      "OperatingProfit": 1089384630.52640,
+      "ProfitOnOrdinaryActivitiesBeforeTaxation": 1089264630.52640,
+      "IncidentalProfit": 0.00000,
+      "IncidentalLoss": 0.00000,
+      "ExternalStaff": 17680000.00000,
+      "StaffOverhead": 685000.00000,
+      "OtherCostsAndIncome": 19316625.25000,
+      "NetSalesResult": 1070068005.27640,
+      "LocationCosts": 107500000.00000,
+      "CompanyStructureCosts": 4500000.00000,
+      "StorageRentCosts": 5035000.00000,
+      "CountryProfitLoss": [
+        {
+          "CountryId": 2
+        },
+        {
+          "CountryId": 3
+        },
+        {
+          "CountryId": 4
+        },
+        {
+          "CountryId": 6
+        },
+        {
+          "CountryId": 8
+        },
+        {
+          "CountryId": 17
+        }
+      ],
+      "RetainedProfit": 1089264630.52640
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "Countries": [
+      {
+        "Id": 1,
+        "Name": null
+      },
+      {
+        "Id": 2,
+        "Name": null
+      },
+      {
+        "Id": 3,
+        "Name": null
+      },
+      {
+        "Id": 4,
+        "Name": null
+      },
+      {
+        "Id": 5,
+        "Name": null
+      },
+      {
+        "Id": 6,
+        "Name": null
+      },
+      {
+        "Id": 7,
+        "Name": null
+      },
+      {
+        "Id": 8,
+        "Name": null
+      },
+      {
+        "Id": 9,
+        "Name": null
+      },
+      {
+        "Id": 10,
+        "Name": null
+      },
+      {
+        "Id": 11,
+        "Name": null
+      },
+      {
+        "Id": 12,
+        "Name": null
+      },
+      {
+        "Id": 13,
+        "Name": null
+      },
+      {
+        "Id": 14,
+        "Name": null
+      },
+      {
+        "Id": 15,
+        "Name": null
+      },
+      {
+        "Id": 16,
+        "Name": null
+      },
+      {
+        "Id": 17,
+        "Name": null
+      },
+      {
+        "Id": 18,
+        "Name": null
+      },
+      {
+        "Id": 19,
+        "Name": null
+      },
+      {
+        "Id": 20,
+        "Name": null
+      },
+      {
+        "Id": 21,
+        "Name": null
+      },
+      {
+        "Id": 22,
+        "Name": null
+      }
+    ],
+    "CalculationId": 15599
+  },
+  "22": {
+    "ProfitLossItem": {
+      "Period": 2022,
+      "SalesIncome": 2998609250.00000,
+      "CostOfStockSold": 1533903962.50000,
+      "GrossMargin": 1464705287.50000,
+      "EmissionCosts": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "Remuneration": 238324864.84800,
+      "SocialSecurity": 71497459.45440,
+      "HRSystemCosts": 16000.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 15275682.50000,
+      "HRHighPotentialCosts": 10000.00000,
+      "EducationCosts": 944500.00000,
+      "HROnboardingCosts": 3881000.00000,
+      "GovernmentOffer": 0.00000,
+      "DepreciationNonfinancialAssets": 9457500.00000,
+      "DepreciationLandAndBuildings": 50000.00000,
+      "EquipmentDepreciation": 50000.00000,
+      "InterestCosts": 140000.00000,
+      "ServerancePayments": 0.00000,
+      "ManagementPayments": 83000.00000,
+      "NetInterestPayable": 140000.00000,
+      "SalesAndMarketing": 262370000.00000,
+      "AdministrativeExpenses": 418184324.30240,
+      "SumOfCosts": 680554324.30240,
+      "OperatingProfit": 799426645.69760,
+      "ProfitOnOrdinaryActivitiesBeforeTaxation": 799286645.69760,
+      "IncidentalProfit": 0.00000,
+      "IncidentalLoss": 0.00000,
+      "ExternalStaff": 15895000.00000,
+      "StaffOverhead": 570000.00000,
+      "OtherCostsAndIncome": 15275682.50000,
+      "NetSalesResult": 784150963.19760,
+      "LocationCosts": 82500000.00000,
+      "CompanyStructureCosts": 4500000.00000,
+      "StorageRentCosts": 3775000.00000,
+      "CountryProfitLoss": [
+        {
+          "CountryId": 2
+        },
+        {
+          "CountryId": 3
+        },
+        {
+          "CountryId": 6
+        },
+        {
+          "CountryId": 8
+        },
+        {
+          "CountryId": 17
+        }
+      ],
+      "RetainedProfit": 799286645.69760
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "Countries": [
+      {
+        "Id": 1,
+        "Name": null
+      },
+      {
+        "Id": 2,
+        "Name": null
+      },
+      {
+        "Id": 3,
+        "Name": null
+      },
+      {
+        "Id": 4,
+        "Name": null
+      },
+      {
+        "Id": 5,
+        "Name": null
+      },
+      {
+        "Id": 6,
+        "Name": null
+      },
+      {
+        "Id": 7,
+        "Name": null
+      },
+      {
+        "Id": 8,
+        "Name": null
+      },
+      {
+        "Id": 9,
+        "Name": null
+      },
+      {
+        "Id": 10,
+        "Name": null
+      },
+      {
+        "Id": 11,
+        "Name": null
+      },
+      {
+        "Id": 12,
+        "Name": null
+      },
+      {
+        "Id": 13,
+        "Name": null
+      },
+      {
+        "Id": 14,
+        "Name": null
+      },
+      {
+        "Id": 15,
+        "Name": null
+      },
+      {
+        "Id": 16,
+        "Name": null
+      },
+      {
+        "Id": 17,
+        "Name": null
+      },
+      {
+        "Id": 18,
+        "Name": null
+      },
+      {
+        "Id": 19,
+        "Name": null
+      },
+      {
+        "Id": 20,
+        "Name": null
+      },
+      {
+        "Id": 21,
+        "Name": null
+      },
+      {
+        "Id": 22,
+        "Name": null
+      }
+    ],
+    "CalculationId": 15577
+  },
+  "21": {
+    "ProfitLossItem": {
+      "Period": 2021,
+      "SalesIncome": 715128950.00000,
+      "CostOfStockSold": 347397962.50000,
+      "GrossMargin": 367730987.50000,
+      "EmissionCosts": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "Remuneration": 38642510.00000,
+      "SocialSecurity": 11592753.00000,
+      "HRSystemCosts": 15000.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 3484399.75000,
+      "HRHighPotentialCosts": 0.00000,
+      "EducationCosts": 1910100.00000,
+      "HROnboardingCosts": 1980000.00000,
+      "GovernmentOffer": 0.00000,
+      "DepreciationNonfinancialAssets": 7500.00000,
+      "DepreciationLandAndBuildings": 50000.00000,
+      "EquipmentDepreciation": 0.00000,
+      "InterestCosts": 160000.00000,
+      "ServerancePayments": 0.00000,
+      "ManagementPayments": 83000.00000,
+      "NetInterestPayable": 160000.00000,
+      "SalesAndMarketing": 33250000.00000,
+      "AdministrativeExpenses": 97833363.00000,
+      "SumOfCosts": 131083363.00000,
+      "OperatingProfit": 240132024.25000,
+      "ProfitOnOrdinaryActivitiesBeforeTaxation": 239972024.25000,
+      "IncidentalProfit": 0.00000,
+      "IncidentalLoss": 0.00000,
+      "ExternalStaff": 3145000.00000,
+      "StaffOverhead": 132500.00000,
+      "OtherCostsAndIncome": 3484399.75000,
+      "NetSalesResult": 236647624.50000,
+      "LocationCosts": 41000000.00000,
+      "CompanyStructureCosts": 1000000.00000,
+      "StorageRentCosts": 1395000.00000,
+      "CountryProfitLoss": [
+        {
+          "CountryId": 8
+        },
+        {
+          "CountryId": 10
+        },
+        {
+          "CountryId": 17
+        }
+      ],
+      "RetainedProfit": 239972024.25000
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "Countries": [
+      {
+        "Id": 1,
+        "Name": null
+      },
+      {
+        "Id": 2,
+        "Name": null
+      },
+      {
+        "Id": 3,
+        "Name": null
+      },
+      {
+        "Id": 4,
+        "Name": null
+      },
+      {
+        "Id": 5,
+        "Name": null
+      },
+      {
+        "Id": 6,
+        "Name": null
+      },
+      {
+        "Id": 7,
+        "Name": null
+      },
+      {
+        "Id": 8,
+        "Name": null
+      },
+      {
+        "Id": 9,
+        "Name": null
+      },
+      {
+        "Id": 10,
+        "Name": null
+      },
+      {
+        "Id": 11,
+        "Name": null
+      },
+      {
+        "Id": 12,
+        "Name": null
+      },
+      {
+        "Id": 13,
+        "Name": null
+      },
+      {
+        "Id": 14,
+        "Name": null
+      },
+      {
+        "Id": 15,
+        "Name": null
+      },
+      {
+        "Id": 16,
+        "Name": null
+      },
+      {
+        "Id": 17,
+        "Name": null
+      },
+      {
+        "Id": 18,
+        "Name": null
+      },
+      {
+        "Id": 19,
+        "Name": null
+      },
+      {
+        "Id": 20,
+        "Name": null
+      },
+      {
+        "Id": 21,
+        "Name": null
+      },
+      {
+        "Id": 22,
+        "Name": null
+      }
+    ],
+    "CalculationId": 15555
+  },
+  "20": {
+    "ProfitLossItem": {
+      "Period": 2020,
+      "SalesIncome": 169721800.00000,
+      "CostOfStockSold": 218516817.50000,
+      "GrossMargin": -48795017.50000,
+      "EmissionCosts": 0.00000,
+      "GeneralMaintenanceCosts": 25000.00000,
+      "WarehouseMaintenanceCosts": 0.00000,
+      "Remuneration": 31765200.00000,
+      "SocialSecurity": 9529560.00000,
+      "HRSystemCosts": 20000.00000,
+      "AuctionPayment": 0.00000,
+      "SupplierBonus": 2839229.25000,
+      "HRHighPotentialCosts": 0.00000,
+      "EducationCosts": 3802100.00000,
+      "HROnboardingCosts": 3770000.00000,
+      "GovernmentOffer": 0.00000,
+      "DepreciationNonfinancialAssets": 0.00000,
+      "DepreciationLandAndBuildings": 50000.00000,
+      "EquipmentDepreciation": 0.00000,
+      "InterestCosts": 180000.00000,
+      "ServerancePayments": 0.00000,
+      "ManagementPayments": 40000.00000,
+      "NetInterestPayable": 180000.00000,
+      "SalesAndMarketing": 31550000.00000,
+      "AdministrativeExpenses": 71449360.00000,
+      "SumOfCosts": 102999360.00000,
+      "OperatingProfit": -148955148.25000,
+      "ProfitOnOrdinaryActivitiesBeforeTaxation": -149135148.25000,
+      "IncidentalProfit": 0.00000,
+      "IncidentalLoss": 0.00000,
+      "ExternalStaff": 1445000.00000,
+      "StaffOverhead": 107500.00000,
+      "OtherCostsAndIncome": 2839229.25000,
+      "NetSalesResult": -151794377.50000,
+      "LocationCosts": 18000000.00000,
+      "CompanyStructureCosts": 1000000.00000,
+      "StorageRentCosts": 840000.00000,
+      "CountryProfitLoss": [
+        {
+          "CountryId": 8
+        }
+      ],
+      "RetainedProfit": -149135148.25000
+    },
+    "Periods": [
+      {
+        "Period": 2023,
+        "CalculationId": 15599
+      },
+      {
+        "Period": 2022,
+        "CalculationId": 15577
+      },
+      {
+        "Period": 2021,
+        "CalculationId": 15555
+      },
+      {
+        "Period": 2020,
+        "CalculationId": 15533
+      }
+    ],
+    "Countries": [
+      {
+        "Id": 1,
+        "Name": null
+      },
+      {
+        "Id": 2,
+        "Name": null
+      },
+      {
+        "Id": 3,
+        "Name": null
+      },
+      {
+        "Id": 4,
+        "Name": null
+      },
+      {
+        "Id": 5,
+        "Name": null
+      },
+      {
+        "Id": 6,
+        "Name": null
+      },
+      {
+        "Id": 7,
+        "Name": null
+      },
+      {
+        "Id": 8,
+        "Name": null
+      },
+      {
+        "Id": 9,
+        "Name": null
+      },
+      {
+        "Id": 10,
+        "Name": null
+      },
+      {
+        "Id": 11,
+        "Name": null
+      },
+      {
+        "Id": 12,
+        "Name": null
+      },
+      {
+        "Id": 13,
+        "Name": null
+      },
+      {
+        "Id": 14,
+        "Name": null
+      },
+      {
+        "Id": 15,
+        "Name": null
+      },
+      {
+        "Id": 16,
+        "Name": null
+      },
+      {
+        "Id": 17,
+        "Name": null
+      },
+      {
+        "Id": 18,
+        "Name": null
+      },
+      {
+        "Id": 19,
+        "Name": null
+      },
+      {
+        "Id": 20,
+        "Name": null
+      },
+      {
+        "Id": 21,
+        "Name": null
+      },
+      {
+        "Id": 22,
+        "Name": null
+      }
+    ],
+    "CalculationId": 15533
+  }
+}

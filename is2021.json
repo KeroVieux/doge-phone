@@ -1,0 +1,158 @@
+{
+  "ProfitLossItem": {
+    "Period": 2021,
+    "SalesIncome": 715128950.00000,
+    "CostOfStockSold": 347397962.50000,
+    "GrossMargin": 367730987.50000,
+    "EmissionCosts": 0.00000,
+    "GeneralMaintenanceCosts": 25000.00000,
+    "WarehouseMaintenanceCosts": 0.00000,
+    "Remuneration": 38642510.00000,
+    "SocialSecurity": 11592753.00000,
+    "HRSystemCosts": 15000.00000,
+    "AuctionPayment": 0.00000,
+    "SupplierBonus": 3484399.75000,
+    "HRHighPotentialCosts": 0.00000,
+    "EducationCosts": 1910100.00000,
+    "HROnboardingCosts": 1980000.00000,
+    "GovernmentOffer": 0.00000,
+    "DepreciationNonfinancialAssets": 7500.00000,
+    "DepreciationLandAndBuildings": 50000.00000,
+    "EquipmentDepreciation": 0.00000,
+    "InterestCosts": 160000.00000,
+    "ServerancePayments": 0.00000,
+    "ManagementPayments": 83000.00000,
+    "NetInterestPayable": 160000.00000,
+    "SalesAndMarketing": 33250000.00000,
+    "AdministrativeExpenses": 97833363.00000,
+    "SumOfCosts": 131083363.00000,
+    "OperatingProfit": 240132024.25000,
+    "ProfitOnOrdinaryActivitiesBeforeTaxation": 239972024.25000,
+    "IncidentalProfit": 0.00000,
+    "IncidentalLoss": 0.00000,
+    "ExternalStaff": 3145000.00000,
+    "StaffOverhead": 132500.00000,
+    "OtherCostsAndIncome": 3484399.75000,
+    "NetSalesResult": 236647624.50000,
+    "LocationCosts": 41000000.00000,
+    "CompanyStructureCosts": 1000000.00000,
+    "StorageRentCosts": 1395000.00000,
+    "CountryProfitLoss": [
+      {
+        "CountryId": 8
+      },
+      {
+        "CountryId": 10
+      },
+      {
+        "CountryId": 17
+      }
+    ],
+    "RetainedProfit": 239972024.25000
+  },
+  "Periods": [
+    {
+      "Period": 2022,
+      "CalculationId": 15577
+    },
+    {
+      "Period": 2021,
+      "CalculationId": 15555
+    },
+    {
+      "Period": 2020,
+      "CalculationId": 15533
+    }
+  ],
+  "Countries": [
+    {
+      "Id": 1,
+      "Name": null
+    },
+    {
+      "Id": 2,
+      "Name": null
+    },
+    {
+      "Id": 3,
+      "Name": null
+    },
+    {
+      "Id": 4,
+      "Name": null
+    },
+    {
+      "Id": 5,
+      "Name": null
+    },
+    {
+      "Id": 6,
+      "Name": null
+    },
+    {
+      "Id": 7,
+      "Name": null
+    },
+    {
+      "Id": 8,
+      "Name": null
+    },
+    {
+      "Id": 9,
+      "Name": null
+    },
+    {
+      "Id": 10,
+      "Name": null
+    },
+    {
+      "Id": 11,
+      "Name": null
+    },
+    {
+      "Id": 12,
+      "Name": null
+    },
+    {
+      "Id": 13,
+      "Name": null
+    },
+    {
+      "Id": 14,
+      "Name": null
+    },
+    {
+      "Id": 15,
+      "Name": null
+    },
+    {
+      "Id": 16,
+      "Name": null
+    },
+    {
+      "Id": 17,
+      "Name": null
+    },
+    {
+      "Id": 18,
+      "Name": null
+    },
+    {
+      "Id": 19,
+      "Name": null
+    },
+    {
+      "Id": 20,
+      "Name": null
+    },
+    {
+      "Id": 21,
+      "Name": null
+    },
+    {
+      "Id": 22,
+      "Name": null
+    }
+  ],
+  "CalculationId": 15555
+}

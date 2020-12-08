@@ -1,0 +1,24 @@
+{
+  "UK": {
+    "countryName": "UK",
+    "countryId": 8,
+    "NumberOfCompetitors": 4,
+    "PotentialSales": [
+      1155000,
+      1039500,
+      731500
+    ],
+    "OwnSales": [
+      848609,
+      0,
+      0
+    ],
+    "customerRatio": 0,
+    "qualityRatio": 0,
+    "twoRatio": 0,
+    "threeRatio": 29,
+    "revenue": 551595850,
+    "purchaseFee": 254582700,
+    "grossProfit": 297013150
+  }
+}

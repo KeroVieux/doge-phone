@@ -1,0 +1,1806 @@
+{
+  "BalanceItems": [
+    {
+      "BalanceDate": "2023-12-31T00:00:00",
+      "CalculationId": 15599,
+      "FixedAssets": 127315000.00000,
+      "TotalStockValue": 76579810.00000,
+      "CurrentAssets": 2565737397.22400,
+      "Equity": 2491575152.22400,
+      "CurrentLiabilities": 197477245.00000,
+      "FixedLiabilities": 4000000.0,
+      "LandAndBuilding": 1750000.00000,
+      "LandAndBuildingDepreciation": 250000.00000,
+      "NonFinancialAssets": 141787500.00000,
+      "NonFinancialAssetsDepreciation": 28372500.00000,
+      "Equipment": 12500000.00000,
+      "EquipmentDepreciation": 100000.00000,
+      "Stock": 76579810.00000,
+      "StockExplanation": [
+        {
+          "CountryId": 1,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 2,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-17T00:00:00",
+              "DateDelivered": "2023-12-17T00:00:00",
+              "Amount": 4286,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 1639395.0
+            },
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 8214,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 3141855.0
+            }
+          ],
+          "TotalValue": 4781250.0
+        },
+        {
+          "CountryId": 3,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-17T00:00:00",
+              "DateDelivered": "2023-12-17T00:00:00",
+              "Amount": 14493,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 5543572.5
+            },
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 13757,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 5262052.5
+            }
+          ],
+          "TotalValue": 10805625.0
+        },
+        {
+          "CountryId": 4,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 25000,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 9562500.0
+            }
+          ],
+          "TotalValue": 9562500.0
+        },
+        {
+          "CountryId": 5,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 6,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-17T00:00:00",
+              "DateDelivered": "2023-12-17T00:00:00",
+              "Amount": 53746,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 20557845.0
+            },
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 46254,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 17692155.0
+            }
+          ],
+          "TotalValue": 38250000.0
+        },
+        {
+          "CountryId": 8,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-17T00:00:00",
+              "DateDelivered": "2023-12-17T00:00:00",
+              "Amount": 4439,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 1697917.5
+            },
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 10561,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 4039582.5
+            }
+          ],
+          "TotalValue": 5737500.0
+        },
+        {
+          "CountryId": 10,
+          "Batches": [
+            {
+              "DateOrdered": "2021-07-30T00:00:00",
+              "DateDelivered": "2021-07-30T00:00:00",
+              "Amount": 132,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 43890.0
+            },
+            {
+              "DateOrdered": "2021-11-05T00:00:00",
+              "DateDelivered": "2021-11-05T00:00:00",
+              "Amount": 1546,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 514045.0
+            }
+          ],
+          "TotalValue": 557935.0
+        },
+        {
+          "CountryId": 11,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 12,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 13,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 14,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 15,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 16,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 17,
+          "Batches": [
+            {
+              "DateOrdered": "2023-12-17T00:00:00",
+              "DateDelivered": "2023-12-17T00:00:00",
+              "Amount": 6991,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 2674057.5
+            },
+            {
+              "DateOrdered": "2023-12-24T00:00:00",
+              "DateDelivered": "2023-12-24T00:00:00",
+              "Amount": 11009,
+              "Quality": 5,
+              "ValuePerItem": 382.5,
+              "TotalValue": 4210942.5
+            }
+          ],
+          "TotalValue": 6885000.0
+        },
+        {
+          "CountryId": 18,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 19,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 21,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 22,
+          "Batches": [],
+          "TotalValue": 0.0
+        }
+      ],
+      "StockInTransit": 0.00000,
+      "StockInTransitExplanation": [],
+      "AccountsReceivable": 359052534.00000,
+      "Bank": 2130105053.22400,
+      "ShareCapital": 250000.00000,
+      "TotalNumberOfShares": 250000,
+      "NumberOfSharesManagement": 250000,
+      "NumberOfSharesInvestmentcompany": 0,
+      "Agio": 512250000.00000,
+      "Reserves": 1979075152.22400,
+      "LongLoans": 4000000.0,
+      "ShortLoans": 1000000.0,
+      "AccountsPayable": 196477245.00000,
+      "AccountsPayableExplanation": [
+        {
+          "CountryId": 2,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 9833,
+          "Quality": 5,
+          "TotalPrice": 3761122.5
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 16465,
+          "Quality": 5,
+          "TotalPrice": 6297862.5
+        },
+        {
+          "CountryId": 4,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 25000,
+          "Quality": 5,
+          "TotalPrice": 9562500.0
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 55359,
+          "Quality": 5,
+          "TotalPrice": 21174817.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 14093,
+          "Quality": 5,
+          "TotalPrice": 5390572.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2023-12-03T00:00:00",
+          "ActualDeliveryDate": "2023-12-03T00:00:00",
+          "DatePaymentDue": "2024-01-02T00:00:00",
+          "Amount": 13175,
+          "Quality": 5,
+          "TotalPrice": 5039437.5
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 9833,
+          "Quality": 5,
+          "TotalPrice": 3761122.5
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 16465,
+          "Quality": 5,
+          "TotalPrice": 6297862.5
+        },
+        {
+          "CountryId": 4,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 25000,
+          "Quality": 5,
+          "TotalPrice": 9562500.0
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 55359,
+          "Quality": 5,
+          "TotalPrice": 21174817.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 12641,
+          "Quality": 5,
+          "TotalPrice": 4835182.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2023-12-10T00:00:00",
+          "ActualDeliveryDate": "2023-12-10T00:00:00",
+          "DatePaymentDue": "2024-01-09T00:00:00",
+          "Amount": 13175,
+          "Quality": 5,
+          "TotalPrice": 5039437.5
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 9833,
+          "Quality": 5,
+          "TotalPrice": 3761122.5
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 16465,
+          "Quality": 5,
+          "TotalPrice": 6297862.5
+        },
+        {
+          "CountryId": 4,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 25000,
+          "Quality": 5,
+          "TotalPrice": 9562500.0
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 55359,
+          "Quality": 5,
+          "TotalPrice": 21174817.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 12641,
+          "Quality": 5,
+          "TotalPrice": 4835182.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2023-12-17T00:00:00",
+          "ActualDeliveryDate": "2023-12-17T00:00:00",
+          "DatePaymentDue": "2024-01-16T00:00:00",
+          "Amount": 13175,
+          "Quality": 5,
+          "TotalPrice": 5039437.5
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 8214,
+          "Quality": 5,
+          "TotalPrice": 3141855.0
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 13757,
+          "Quality": 5,
+          "TotalPrice": 5262052.5
+        },
+        {
+          "CountryId": 4,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 25000,
+          "Quality": 5,
+          "TotalPrice": 9562500.0
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 46254,
+          "Quality": 5,
+          "TotalPrice": 17692155.0
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 10561,
+          "Quality": 5,
+          "TotalPrice": 4039582.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2023-12-24T00:00:00",
+          "ActualDeliveryDate": "2023-12-24T00:00:00",
+          "DatePaymentDue": "2024-01-23T00:00:00",
+          "Amount": 11009,
+          "Quality": 5,
+          "TotalPrice": 4210942.5
+        }
+      ],
+      "AccountsReceivableExplanation": [
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 9833,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 16465,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 4,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 25000,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 55359,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 14093,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2023-12-03T00:00:00",
+          "PaymentDate": "2024-01-02T00:00:00",
+          "Amount": 13175,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 9833,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 16465,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 4,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 25000,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 55359,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 12641,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2023-12-10T00:00:00",
+          "PaymentDate": "2024-01-09T00:00:00",
+          "Amount": 13175,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 9833,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 16465,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 4,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 25000,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 55359,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 12641,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2023-12-17T00:00:00",
+          "PaymentDate": "2024-01-16T00:00:00",
+          "Amount": 13175,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 8214,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 13757,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 4,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 25000,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 46254,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 10561,
+          "Price": 699.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2023-12-24T00:00:00",
+          "PaymentDate": "2024-01-23T00:00:00",
+          "Amount": 11009,
+          "Price": 699.0
+        }
+      ],
+      "CurrentAccount": 0.00000,
+      "TotalAssets": 2693052397.22400,
+      "TotalLiabilities": 2693052397.22400,
+      "CountriesWithOpenInvoices": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        17
+      ],
+      "CountriesWithPayableInvoices": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        17
+      ]
+    },
+    {
+      "BalanceDate": "2022-12-31T00:00:00",
+      "CalculationId": 15577,
+      "FixedAssets": 99072500.00000,
+      "TotalStockValue": 44436297.50000,
+      "CurrentAssets": 1443985641.69760,
+      "Equity": 1402310521.69760,
+      "CurrentLiabilities": 135747620.00000,
+      "FixedLiabilities": 5000000.0,
+      "LandAndBuilding": 1750000.00000,
+      "LandAndBuildingDepreciation": 200000.00000,
+      "NonFinancialAssets": 94537500.00000,
+      "NonFinancialAssetsDepreciation": 9465000.00000,
+      "Equipment": 12500000.00000,
+      "EquipmentDepreciation": 50000.00000,
+      "Stock": 44436297.50000,
+      "StockExplanation": [
+        {
+          "CountryId": 1,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 2,
+          "Batches": [
+            {
+              "DateOrdered": "2022-12-17T00:00:00",
+              "DateDelivered": "2022-12-17T00:00:00",
+              "Amount": 1729,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 574892.5
+            },
+            {
+              "DateOrdered": "2022-12-24T00:00:00",
+              "DateDelivered": "2022-12-24T00:00:00",
+              "Amount": 8271,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 2750107.5
+            }
+          ],
+          "TotalValue": 3325000.0
+        },
+        {
+          "CountryId": 3,
+          "Batches": [
+            {
+              "DateOrdered": "2022-12-17T00:00:00",
+              "DateDelivered": "2022-12-17T00:00:00",
+              "Amount": 6350,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 2111375.0
+            },
+            {
+              "DateOrdered": "2022-12-24T00:00:00",
+              "DateDelivered": "2022-12-24T00:00:00",
+              "Amount": 18650,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 6201125.0
+            }
+          ],
+          "TotalValue": 8312500.0
+        },
+        {
+          "CountryId": 4,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 5,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 6,
+          "Batches": [
+            {
+              "DateOrdered": "2022-12-24T00:00:00",
+              "DateDelivered": "2022-12-24T00:00:00",
+              "Amount": 50000,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 16625000.0
+            }
+          ],
+          "TotalValue": 16625000.0
+        },
+        {
+          "CountryId": 8,
+          "Batches": [
+            {
+              "DateOrdered": "2022-12-03T00:00:00",
+              "DateDelivered": "2022-12-03T00:00:00",
+              "Amount": 13751,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 4572207.5
+            },
+            {
+              "DateOrdered": "2022-12-17T00:00:00",
+              "DateDelivered": "2022-12-17T00:00:00",
+              "Amount": 15214,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 5058655.0
+            }
+          ],
+          "TotalValue": 9630862.5
+        },
+        {
+          "CountryId": 10,
+          "Batches": [
+            {
+              "DateOrdered": "2021-07-30T00:00:00",
+              "DateDelivered": "2021-07-30T00:00:00",
+              "Amount": 132,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 43890.0
+            },
+            {
+              "DateOrdered": "2021-11-05T00:00:00",
+              "DateDelivered": "2021-11-05T00:00:00",
+              "Amount": 1546,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 514045.0
+            }
+          ],
+          "TotalValue": 557935.0
+        },
+        {
+          "CountryId": 11,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 12,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 13,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 14,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 15,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 16,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 17,
+          "Batches": [
+            {
+              "DateOrdered": "2022-12-17T00:00:00",
+              "DateDelivered": "2022-12-17T00:00:00",
+              "Amount": 6667,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 2216777.5
+            },
+            {
+              "DateOrdered": "2022-12-24T00:00:00",
+              "DateDelivered": "2022-12-24T00:00:00",
+              "Amount": 11333,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 3768222.5
+            }
+          ],
+          "TotalValue": 5985000.0
+        },
+        {
+          "CountryId": 18,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 19,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 21,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 22,
+          "Batches": [],
+          "TotalValue": 0.0
+        }
+      ],
+      "StockInTransit": 0.00000,
+      "StockInTransitExplanation": [],
+      "AccountsReceivable": 262906150.00000,
+      "Bank": 1136643194.19760,
+      "ShareCapital": 250000.00000,
+      "TotalNumberOfShares": 250000,
+      "NumberOfSharesManagement": 250000,
+      "NumberOfSharesInvestmentcompany": 0,
+      "Agio": 512250000.00000,
+      "Reserves": 889810521.69760,
+      "LongLoans": 5000000.0,
+      "ShortLoans": 1000000.0,
+      "AccountsPayable": 134747620.00000,
+      "AccountsPayableExplanation": [
+        {
+          "CountryId": 2,
+          "DateOrdered": "2022-12-03T00:00:00",
+          "ActualDeliveryDate": "2022-12-03T00:00:00",
+          "DatePaymentDue": "2023-01-02T00:00:00",
+          "Amount": 9900,
+          "Quality": 4,
+          "TotalPrice": 3291750.0
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2022-12-03T00:00:00",
+          "ActualDeliveryDate": "2022-12-03T00:00:00",
+          "DatePaymentDue": "2023-01-02T00:00:00",
+          "Amount": 22323,
+          "Quality": 4,
+          "TotalPrice": 7422397.5
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2022-12-03T00:00:00",
+          "ActualDeliveryDate": "2022-12-03T00:00:00",
+          "DatePaymentDue": "2023-01-02T00:00:00",
+          "Amount": 50000,
+          "Quality": 4,
+          "TotalPrice": 16625000.0
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2022-12-03T00:00:00",
+          "ActualDeliveryDate": "2022-12-03T00:00:00",
+          "DatePaymentDue": "2023-01-02T00:00:00",
+          "Amount": 14427,
+          "Quality": 4,
+          "TotalPrice": 4796977.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2022-12-03T00:00:00",
+          "ActualDeliveryDate": "2022-12-03T00:00:00",
+          "DatePaymentDue": "2023-01-02T00:00:00",
+          "Amount": 13564,
+          "Quality": 4,
+          "TotalPrice": 4510030.0
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2022-12-10T00:00:00",
+          "ActualDeliveryDate": "2022-12-10T00:00:00",
+          "DatePaymentDue": "2023-01-09T00:00:00",
+          "Amount": 9900,
+          "Quality": 4,
+          "TotalPrice": 3291750.0
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2022-12-10T00:00:00",
+          "ActualDeliveryDate": "2022-12-10T00:00:00",
+          "DatePaymentDue": "2023-01-09T00:00:00",
+          "Amount": 22323,
+          "Quality": 4,
+          "TotalPrice": 7422397.5
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2022-12-10T00:00:00",
+          "ActualDeliveryDate": "2022-12-10T00:00:00",
+          "DatePaymentDue": "2023-01-09T00:00:00",
+          "Amount": 50000,
+          "Quality": 4,
+          "TotalPrice": 16625000.0
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2022-12-10T00:00:00",
+          "ActualDeliveryDate": "2022-12-10T00:00:00",
+          "DatePaymentDue": "2023-01-09T00:00:00",
+          "Amount": 13564,
+          "Quality": 4,
+          "TotalPrice": 4510030.0
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2022-12-17T00:00:00",
+          "ActualDeliveryDate": "2022-12-17T00:00:00",
+          "DatePaymentDue": "2023-01-16T00:00:00",
+          "Amount": 9900,
+          "Quality": 4,
+          "TotalPrice": 3291750.0
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2022-12-17T00:00:00",
+          "ActualDeliveryDate": "2022-12-17T00:00:00",
+          "DatePaymentDue": "2023-01-16T00:00:00",
+          "Amount": 22323,
+          "Quality": 4,
+          "TotalPrice": 7422397.5
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2022-12-17T00:00:00",
+          "ActualDeliveryDate": "2022-12-17T00:00:00",
+          "DatePaymentDue": "2023-01-16T00:00:00",
+          "Amount": 50000,
+          "Quality": 4,
+          "TotalPrice": 16625000.0
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2022-12-17T00:00:00",
+          "ActualDeliveryDate": "2022-12-17T00:00:00",
+          "DatePaymentDue": "2023-01-16T00:00:00",
+          "Amount": 15214,
+          "Quality": 4,
+          "TotalPrice": 5058655.0
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2022-12-17T00:00:00",
+          "ActualDeliveryDate": "2022-12-17T00:00:00",
+          "DatePaymentDue": "2023-01-16T00:00:00",
+          "Amount": 13564,
+          "Quality": 4,
+          "TotalPrice": 4510030.0
+        },
+        {
+          "CountryId": 2,
+          "DateOrdered": "2022-12-24T00:00:00",
+          "ActualDeliveryDate": "2022-12-24T00:00:00",
+          "DatePaymentDue": "2023-01-23T00:00:00",
+          "Amount": 8271,
+          "Quality": 4,
+          "TotalPrice": 2750107.5
+        },
+        {
+          "CountryId": 3,
+          "DateOrdered": "2022-12-24T00:00:00",
+          "ActualDeliveryDate": "2022-12-24T00:00:00",
+          "DatePaymentDue": "2023-01-23T00:00:00",
+          "Amount": 18650,
+          "Quality": 4,
+          "TotalPrice": 6201125.0
+        },
+        {
+          "CountryId": 6,
+          "DateOrdered": "2022-12-24T00:00:00",
+          "ActualDeliveryDate": "2022-12-24T00:00:00",
+          "DatePaymentDue": "2023-01-23T00:00:00",
+          "Amount": 50000,
+          "Quality": 4,
+          "TotalPrice": 16625000.0
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2022-12-24T00:00:00",
+          "ActualDeliveryDate": "2022-12-24T00:00:00",
+          "DatePaymentDue": "2023-01-23T00:00:00",
+          "Amount": 11333,
+          "Quality": 4,
+          "TotalPrice": 3768222.5
+        }
+      ],
+      "AccountsReceivableExplanation": [
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2022-12-03T00:00:00",
+          "PaymentDate": "2023-01-02T00:00:00",
+          "Amount": 9900,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2022-12-03T00:00:00",
+          "PaymentDate": "2023-01-02T00:00:00",
+          "Amount": 22323,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2022-12-03T00:00:00",
+          "PaymentDate": "2023-01-02T00:00:00",
+          "Amount": 50000,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2022-12-03T00:00:00",
+          "PaymentDate": "2023-01-02T00:00:00",
+          "Amount": 7607,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2022-12-03T00:00:00",
+          "PaymentDate": "2023-01-02T00:00:00",
+          "Amount": 13564,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2022-12-10T00:00:00",
+          "PaymentDate": "2023-01-09T00:00:00",
+          "Amount": 9900,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2022-12-10T00:00:00",
+          "PaymentDate": "2023-01-09T00:00:00",
+          "Amount": 22323,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2022-12-10T00:00:00",
+          "PaymentDate": "2023-01-09T00:00:00",
+          "Amount": 50000,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2022-12-10T00:00:00",
+          "PaymentDate": "2023-01-09T00:00:00",
+          "Amount": 7607,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2022-12-10T00:00:00",
+          "PaymentDate": "2023-01-09T00:00:00",
+          "Amount": 13564,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2022-12-17T00:00:00",
+          "PaymentDate": "2023-01-16T00:00:00",
+          "Amount": 9900,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2022-12-17T00:00:00",
+          "PaymentDate": "2023-01-16T00:00:00",
+          "Amount": 22323,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2022-12-17T00:00:00",
+          "PaymentDate": "2023-01-16T00:00:00",
+          "Amount": 50000,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2022-12-17T00:00:00",
+          "PaymentDate": "2023-01-16T00:00:00",
+          "Amount": 7607,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2022-12-17T00:00:00",
+          "PaymentDate": "2023-01-16T00:00:00",
+          "Amount": 13564,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 2,
+          "PurchaseDate": "2022-12-24T00:00:00",
+          "PaymentDate": "2023-01-23T00:00:00",
+          "Amount": 8271,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 3,
+          "PurchaseDate": "2022-12-24T00:00:00",
+          "PaymentDate": "2023-01-23T00:00:00",
+          "Amount": 18650,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 6,
+          "PurchaseDate": "2022-12-24T00:00:00",
+          "PaymentDate": "2023-01-23T00:00:00",
+          "Amount": 50000,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2022-12-24T00:00:00",
+          "PaymentDate": "2023-01-23T00:00:00",
+          "Amount": 6035,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2022-12-24T00:00:00",
+          "PaymentDate": "2023-01-23T00:00:00",
+          "Amount": 11333,
+          "Price": 650.0
+        }
+      ],
+      "CurrentAccount": 0.00000,
+      "TotalAssets": 1543058141.69760,
+      "TotalLiabilities": 1543058141.69760,
+      "CountriesWithOpenInvoices": [
+        2,
+        3,
+        6,
+        8,
+        17
+      ],
+      "CountriesWithPayableInvoices": [
+        2,
+        3,
+        6,
+        8,
+        17
+      ]
+    },
+    {
+      "BalanceDate": "2021-12-31T00:00:00",
+      "CalculationId": 15555,
+      "FixedAssets": 48880000.00000,
+      "TotalStockValue": 15520435.00000,
+      "CurrentAssets": 592034456.00000,
+      "Equity": 603023876.00000,
+      "CurrentLiabilities": 31890580.00000,
+      "FixedLiabilities": 6000000.0,
+      "LandAndBuilding": 1750000.00000,
+      "LandAndBuildingDepreciation": 150000.00000,
+      "NonFinancialAssets": 47287500.00000,
+      "NonFinancialAssetsDepreciation": 7500.00000,
+      "Equipment": 0.00000,
+      "EquipmentDepreciation": 0.00000,
+      "Stock": 15520435.00000,
+      "StockExplanation": [
+        {
+          "CountryId": 1,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 2,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 3,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 4,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 5,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 6,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 8,
+          "Batches": [
+            {
+              "DateOrdered": "2021-12-17T00:00:00",
+              "DateDelivered": "2021-12-17T00:00:00",
+              "Amount": 5978,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 1987685.0
+            },
+            {
+              "DateOrdered": "2021-12-24T00:00:00",
+              "DateDelivered": "2021-12-24T00:00:00",
+              "Amount": 14022,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 4662315.0
+            }
+          ],
+          "TotalValue": 6650000.0
+        },
+        {
+          "CountryId": 10,
+          "Batches": [
+            {
+              "DateOrdered": "2021-07-30T00:00:00",
+              "DateDelivered": "2021-07-30T00:00:00",
+              "Amount": 132,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 43890.0
+            },
+            {
+              "DateOrdered": "2021-11-05T00:00:00",
+              "DateDelivered": "2021-11-05T00:00:00",
+              "Amount": 1546,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 514045.0
+            }
+          ],
+          "TotalValue": 557935.0
+        },
+        {
+          "CountryId": 11,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 12,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 13,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 14,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 15,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 16,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 17,
+          "Batches": [
+            {
+              "DateOrdered": "2021-12-10T00:00:00",
+              "DateDelivered": "2021-12-10T00:00:00",
+              "Amount": 11345,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 3772212.5
+            },
+            {
+              "DateOrdered": "2021-12-24T00:00:00",
+              "DateDelivered": "2021-12-24T00:00:00",
+              "Amount": 13655,
+              "Quality": 4,
+              "ValuePerItem": 332.5,
+              "TotalValue": 4540287.5
+            }
+          ],
+          "TotalValue": 8312500.0
+        },
+        {
+          "CountryId": 18,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 19,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 21,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 22,
+          "Batches": [],
+          "TotalValue": 0.0
+        }
+      ],
+      "StockInTransit": 0.00000,
+      "StockInTransitExplanation": [],
+      "AccountsReceivable": 63609150.00000,
+      "Bank": 512904871.00000,
+      "ShareCapital": 250000.00000,
+      "TotalNumberOfShares": 250000,
+      "NumberOfSharesManagement": 250000,
+      "NumberOfSharesInvestmentcompany": 0,
+      "Agio": 512250000.00000,
+      "Reserves": 90523876.00000,
+      "LongLoans": 6000000.0,
+      "ShortLoans": 1000000.0,
+      "AccountsPayable": 30890580.00000,
+      "AccountsPayableExplanation": [
+        {
+          "CountryId": 8,
+          "DateOrdered": "2021-12-03T00:00:00",
+          "ActualDeliveryDate": "2021-12-03T00:00:00",
+          "DatePaymentDue": "2022-01-02T00:00:00",
+          "Amount": 16783,
+          "Quality": 4,
+          "TotalPrice": 5580347.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2021-12-10T00:00:00",
+          "ActualDeliveryDate": "2021-12-10T00:00:00",
+          "DatePaymentDue": "2022-01-09T00:00:00",
+          "Amount": 16783,
+          "Quality": 4,
+          "TotalPrice": 5580347.5
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2021-12-10T00:00:00",
+          "ActualDeliveryDate": "2021-12-10T00:00:00",
+          "DatePaymentDue": "2022-01-09T00:00:00",
+          "Amount": 14878,
+          "Quality": 4,
+          "TotalPrice": 4946935.0
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2021-12-17T00:00:00",
+          "ActualDeliveryDate": "2021-12-17T00:00:00",
+          "DatePaymentDue": "2022-01-16T00:00:00",
+          "Amount": 16783,
+          "Quality": 4,
+          "TotalPrice": 5580347.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2021-12-24T00:00:00",
+          "ActualDeliveryDate": "2021-12-24T00:00:00",
+          "DatePaymentDue": "2022-01-23T00:00:00",
+          "Amount": 14022,
+          "Quality": 4,
+          "TotalPrice": 4662315.0
+        },
+        {
+          "CountryId": 17,
+          "DateOrdered": "2021-12-24T00:00:00",
+          "ActualDeliveryDate": "2021-12-24T00:00:00",
+          "DatePaymentDue": "2022-01-23T00:00:00",
+          "Amount": 13655,
+          "Quality": 4,
+          "TotalPrice": 4540287.5
+        }
+      ],
+      "AccountsReceivableExplanation": [
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2021-12-03T00:00:00",
+          "PaymentDate": "2022-01-02T00:00:00",
+          "Amount": 16783,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 10,
+          "PurchaseDate": "2021-12-03T00:00:00",
+          "PaymentDate": "2022-01-02T00:00:00",
+          "Amount": 128,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2021-12-03T00:00:00",
+          "PaymentDate": "2022-01-02T00:00:00",
+          "Amount": 7439,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2021-12-10T00:00:00",
+          "PaymentDate": "2022-01-09T00:00:00",
+          "Amount": 16783,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 10,
+          "PurchaseDate": "2021-12-10T00:00:00",
+          "PaymentDate": "2022-01-09T00:00:00",
+          "Amount": 128,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2021-12-10T00:00:00",
+          "PaymentDate": "2022-01-09T00:00:00",
+          "Amount": 7439,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2021-12-17T00:00:00",
+          "PaymentDate": "2022-01-16T00:00:00",
+          "Amount": 16783,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 10,
+          "PurchaseDate": "2021-12-17T00:00:00",
+          "PaymentDate": "2022-01-16T00:00:00",
+          "Amount": 128,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2021-12-17T00:00:00",
+          "PaymentDate": "2022-01-16T00:00:00",
+          "Amount": 7439,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2021-12-24T00:00:00",
+          "PaymentDate": "2022-01-23T00:00:00",
+          "Amount": 14022,
+          "Price": 650.0
+        },
+        {
+          "CountryId": 10,
+          "PurchaseDate": "2021-12-24T00:00:00",
+          "PaymentDate": "2022-01-23T00:00:00",
+          "Amount": 107,
+          "Price": 750.0
+        },
+        {
+          "CountryId": 17,
+          "PurchaseDate": "2021-12-24T00:00:00",
+          "PaymentDate": "2022-01-23T00:00:00",
+          "Amount": 6216,
+          "Price": 750.0
+        }
+      ],
+      "CurrentAccount": 0.00000,
+      "TotalAssets": 640914456.00000,
+      "TotalLiabilities": 640914456.00000,
+      "CountriesWithOpenInvoices": [
+        8,
+        10,
+        17
+      ],
+      "CountriesWithPayableInvoices": [
+        8,
+        17
+      ]
+    },
+    {
+      "BalanceDate": "2020-12-31T00:00:00",
+      "CalculationId": 15533,
+      "FixedAssets": 1687500.00000,
+      "TotalStockValue": 6437500.00000,
+      "CurrentAssets": 388662174.25000,
+      "Equity": 363051851.75000,
+      "CurrentLiabilities": 20297822.50000,
+      "FixedLiabilities": 7000000.0,
+      "LandAndBuilding": 1750000.00000,
+      "LandAndBuildingDepreciation": 100000.00000,
+      "NonFinancialAssets": 37500.00000,
+      "NonFinancialAssetsDepreciation": 0.00000,
+      "Equipment": 0.00000,
+      "EquipmentDepreciation": 0.00000,
+      "Stock": 6437500.00000,
+      "StockExplanation": [
+        {
+          "CountryId": 1,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 2,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 3,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 4,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 5,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 6,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 8,
+          "Batches": [
+            {
+              "DateOrdered": "2020-12-16T00:00:00",
+              "DateDelivered": "2020-12-16T00:00:00",
+              "Amount": 8674,
+              "Quality": 3,
+              "ValuePerItem": 257.5,
+              "TotalValue": 2233555.0
+            },
+            {
+              "DateOrdered": "2020-12-23T00:00:00",
+              "DateDelivered": "2020-12-23T00:00:00",
+              "Amount": 16326,
+              "Quality": 3,
+              "ValuePerItem": 257.5,
+              "TotalValue": 4203945.0
+            }
+          ],
+          "TotalValue": 6437500.0
+        },
+        {
+          "CountryId": 10,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 11,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 12,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 13,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 14,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 15,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 16,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 17,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 18,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 19,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 21,
+          "Batches": [],
+          "TotalValue": 0.0
+        },
+        {
+          "CountryId": 22,
+          "Batches": [],
+          "TotalValue": 0.0
+        }
+      ],
+      "StockInTransit": 0.00000,
+      "StockInTransitExplanation": [],
+      "AccountsReceivable": 14988600.00000,
+      "Bank": 367236074.25000,
+      "ShareCapital": 250000.00000,
+      "TotalNumberOfShares": 250000,
+      "NumberOfSharesManagement": 250000,
+      "NumberOfSharesInvestmentcompany": 0,
+      "Agio": 512250000.00000,
+      "Reserves": -149448148.25000,
+      "LongLoans": 7000000.0,
+      "ShortLoans": 1000000.0,
+      "AccountsPayable": 19297822.50000,
+      "AccountsPayableExplanation": [
+        {
+          "CountryId": 8,
+          "DateOrdered": "2020-12-02T00:00:00",
+          "ActualDeliveryDate": "2020-12-02T00:00:00",
+          "DatePaymentDue": "2021-01-01T00:00:00",
+          "Amount": 19539,
+          "Quality": 3,
+          "TotalPrice": 5031292.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2020-12-09T00:00:00",
+          "ActualDeliveryDate": "2020-12-09T00:00:00",
+          "DatePaymentDue": "2021-01-08T00:00:00",
+          "Amount": 19539,
+          "Quality": 3,
+          "TotalPrice": 5031292.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2020-12-16T00:00:00",
+          "ActualDeliveryDate": "2020-12-16T00:00:00",
+          "DatePaymentDue": "2021-01-15T00:00:00",
+          "Amount": 19539,
+          "Quality": 3,
+          "TotalPrice": 5031292.5
+        },
+        {
+          "CountryId": 8,
+          "DateOrdered": "2020-12-23T00:00:00",
+          "ActualDeliveryDate": "2020-12-23T00:00:00",
+          "DatePaymentDue": "2021-01-22T00:00:00",
+          "Amount": 16326,
+          "Quality": 3,
+          "TotalPrice": 4203945.0
+        }
+      ],
+      "AccountsReceivableExplanation": [
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2020-12-02T00:00:00",
+          "PaymentDate": "2021-01-01T00:00:00",
+          "Amount": 19539,
+          "Price": 200.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2020-12-09T00:00:00",
+          "PaymentDate": "2021-01-08T00:00:00",
+          "Amount": 19539,
+          "Price": 200.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2020-12-16T00:00:00",
+          "PaymentDate": "2021-01-15T00:00:00",
+          "Amount": 19539,
+          "Price": 200.0
+        },
+        {
+          "CountryId": 8,
+          "PurchaseDate": "2020-12-23T00:00:00",
+          "PaymentDate": "2021-01-22T00:00:00",
+          "Amount": 16326,
+          "Price": 200.0
+        }
+      ],
+      "CurrentAccount": 0.00000,
+      "TotalAssets": 390349674.25000,
+      "TotalLiabilities": 390349674.25000,
+      "CountriesWithOpenInvoices": [
+        8
+      ],
+      "CountriesWithPayableInvoices": [
+        8
+      ]
+    },
+    {
+      "BalanceDate": "2019-12-31T00:00:00",
+      "CalculationId": 15511,
+      "FixedAssets": 1700000.00000,
+      "TotalStockValue": 0.00000,
+      "CurrentAssets": 519487000.00000,
+      "Equity": 512187000.00000,
+      "CurrentLiabilities": 1000000.00000,
+      "FixedLiabilities": 8000000.0,
+      "LandAndBuilding": 1750000.00000,
+      "LandAndBuildingDepreciation": 50000.00000,
+      "NonFinancialAssets": 0.00000,
+      "NonFinancialAssetsDepreciation": 0.00000,
+      "Equipment": 0.00000,
+      "EquipmentDepreciation": 0.00000,
+      "Stock": 0.00000,
+      "StockExplanation": [],
+      "StockInTransit": 0.00000,
+      "StockInTransitExplanation": [],
+      "AccountsReceivable": 0.00000,
+      "Bank": 519487000.00000,
+      "ShareCapital": 250000.00000,
+      "TotalNumberOfShares": 250000,
+      "NumberOfSharesManagement": 250000,
+      "NumberOfSharesInvestmentcompany": 0,
+      "Agio": 512250000.00000,
+      "Reserves": -313000.00000,
+      "LongLoans": 8000000.0,
+      "ShortLoans": 1000000.0,
+      "AccountsPayable": 0.00000,
+      "AccountsPayableExplanation": [],
+      "AccountsReceivableExplanation": [],
+      "CurrentAccount": 0.00000,
+      "TotalAssets": 521187000.00000,
+      "TotalLiabilities": 521187000.00000,
+      "CountriesWithOpenInvoices": null,
+      "CountriesWithPayableInvoices": null
+    }
+  ],
+  "Periods": [
+    {
+      "Period": 2023,
+      "CalculationId": 15599
+    },
+    {
+      "Period": 2022,
+      "CalculationId": 15577
+    },
+    {
+      "Period": 2021,
+      "CalculationId": 15555
+    },
+    {
+      "Period": 2020,
+      "CalculationId": 15533
+    },
+    {
+      "Period": 2019,
+      "CalculationId": 15511
+    }
+  ]
+}
